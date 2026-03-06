@@ -1,6 +1,6 @@
 # Vietnamese Semantic Textual Relatedness (STR) Project
 This repository contains the implementation and dataset used in the internship report:
-"Báo cáo thực tập: Tìm hiểu về quy trình xây dựng ứng trí tuệ nhân tạo"
+"Báo cáo thực tập: Tìm hiểu về quy trình xây dựng ứng dụng trí tuệ nhân tạo"
 ## Contents
 - src: source code for baseline models (Dice Similarity, Cosine Similarity)
 - data: datasets used for experiments
