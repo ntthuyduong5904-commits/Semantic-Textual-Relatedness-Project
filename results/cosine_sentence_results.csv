@@ -1,0 +1,511 @@
+﻿PairID,Sentence1,Sentence2,STR,embedding_cosine
+1,Sự_cố mắc_cạn tàu Cửu_Long 01 : Chuẩn_bị kéo tàu ra khơi,Chính quyền địa phương đang triển khai kế hoạch mở rộng cảng cá để phục vụ tàu đánh bắt xa bờ trong mùa mưa bão.,0,0.387
+2,Sự_cố mắc_cạn tàu Cửu_Long 01 : Chuẩn_bị kéo tàu ra khơi,"Công tác cứu hộ các tàu gặp sự cố trên biển thường đòi hỏi sự phối hợp giữa lực lượng hàng hải, cứu nạn và điều kiện thời tiết thuận lợi.",1,0.569
+3,Sự_cố mắc_cạn tàu Cửu_Long 01 : Chuẩn_bị kéo tàu ra khơi,"Sau khi tàu Cửu Long 01 bị mắc cạn, các lực lượng chức năng đang tiến hành chuẩn bị các phương án để kéo tàu trở lại biển.",2,0.695
+4,"Mở đường_bay từ Cà_Mau , Cần_Thơ đi TP HCM",Ngành du lịch đang quảng bá các tuyến xe khách chất lượng cao kết nối các tỉnh miền Trung với khu vực Tây Nguyên.,0,0.392
+5,"Mở đường_bay từ Cà_Mau , Cần_Thơ đi TP HCM",Việc phát triển mạng lưới giao thông giữa các tỉnh đồng bằng sông Cửu Long và TP HCM được kỳ vọng sẽ thúc đẩy giao thương và du lịch.,1,0.6
+6,"Mở đường_bay từ Cà_Mau , Cần_Thơ đi TP HCM",Các tuyến bay mới từ Cà Mau và Cần Thơ đến TP HCM đang được triển khai.,2,0.815
+7,Việt_Nam tạm ngừng nhập thịt bò Mỹ,Nông dân trong nước đang chuyển sang áp dụng mô hình chăn nuôi hữu cơ để nâng cao chất lượng thịt lợn.,0,0.278
+8,Việt_Nam tạm ngừng nhập thịt bò Mỹ,Hoạt động nhập khẩu thực phẩm vào Việt Nam thường chịu ảnh hưởng bởi các quy định về an toàn vệ sinh và kiểm dịch.,1,0.232
+9,Việt_Nam tạm ngừng nhập thịt bò Mỹ,Việt Nam đã quyết định tạm thời dừng việc nhập khẩu thịt bò từ Hoa Kỳ.,2,0.655
+10,"Từ ngày 24 tết hành_khách còn được phục_vụ nước suối , khăn lạnh , bánh kẹo và vé đi xe_buýt miễn_phí ( trả lại cho hành_khách 2000 đồng đi xe_buýt ) .","Trong dịp Tết, nhiều siêu thị kéo dài thời gian mở cửa và tung ra các chương trình giảm giá lớn cho hàng tiêu dùng.",0,0.363
+11,"Từ ngày 24 tết hành_khách còn được phục_vụ nước suối , khăn lạnh , bánh kẹo và vé đi xe_buýt miễn_phí ( trả lại cho hành_khách 2000 đồng đi xe_buýt ) .","Vào cao điểm Tết, các đơn vị vận tải thường bổ sung thêm nhiều tiện ích nhằm nâng cao trải nghiệm cho người đi lại.",1,0.386
+12,"Từ ngày 24 tết hành_khách còn được phục_vụ nước suối , khăn lạnh , bánh kẹo và vé đi xe_buýt miễn_phí ( trả lại cho hành_khách 2000 đồng đi xe_buýt ) .","Bắt đầu từ ngày 24 Tết, hành khách sẽ được cung cấp nước suối, khăn lạnh, bánh kẹo và được miễn phí vé xe buýt, tương đương hoàn lại 2.000 đồng tiền đi xe buýt.",2,0.861
+13,Quá_tải ở các bệnh_viện ( BV ) lớn đã trở_thành một vấn_đề bức_xúc .,Nhiều trường đại học đang điều chỉnh chương trình đào tạo để phù hợp hơn với nhu cầu của thị trường lao động.,0,0.431
+14,Quá_tải ở các bệnh_viện ( BV ) lớn đã trở_thành một vấn_đề bức_xúc .,Hệ thống y tế đang đối mặt với nhiều thách thức trong việc phân bổ nguồn lực và nâng cao chất lượng khám chữa bệnh.,1,0.488
+15,Quá_tải ở các bệnh_viện ( BV ) lớn đã trở_thành một vấn_đề bức_xúc .,Tình trạng các bệnh viện lớn bị quá tải hiện nay đã trở thành vấn đề gây nhiều bức xúc.,2,0.861
+16,Quĩ khám_chữa bệnh cho người nghèo ra_đời cuối năm 2002 .,Nhiều doanh nghiệp bắt đầu triển khai các chương trình chuyển đổi số nhằm nâng cao hiệu quả hoạt động sản xuất kinh doanh.,0,0.202
+17,Quĩ khám_chữa bệnh cho người nghèo ra_đời cuối năm 2002 .,Các chính sách hỗ trợ tài chính cho người có hoàn cảnh khó khăn trong lĩnh vực y tế đã được Nhà nước quan tâm triển khai từ đầu những năm 2000.,1,0.452
+18,Quĩ khám_chữa bệnh cho người nghèo ra_đời cuối năm 2002 .,Quỹ hỗ trợ khám chữa bệnh dành cho người nghèo được thành lập vào cuối năm 2002.,2,0.771
+19,Kiên_Giang : bò_biển nặng trên 400 kg bị sát_hại,Nông dân Kiên Giang đang thu hoạch lúa vụ đông xuân với năng suất cao nhờ thời tiết thuận lợi.,0,0.22
+20,Kiên_Giang : bò_biển nặng trên 400 kg bị sát_hại,Các cơ quan chức năng tại Kiên Giang đang tăng cường bảo vệ động vật quý hiếm trước nguy cơ săn bắt trái phép.,1,0.373
+21,Kiên_Giang : bò_biển nặng trên 400 kg bị sát_hại,"Tại Kiên Giang, một con bò biển có trọng lượng hơn 400 kg đã bị giết chết.",2,0.814
+22,Thủ_tướng phát lệnh thông xe tuyến tránh thị_xã Tân_An,Bộ Giáo dục và Đào tạo công bố kế hoạch điều chỉnh lịch thi tốt nghiệp trung học phổ thông trên toàn quốc.,0,0.2
+23,Thủ_tướng phát lệnh thông xe tuyến tránh thị_xã Tân_An,Nhiều dự án giao thông trọng điểm đang được triển khai nhằm giảm ùn tắc và thúc đẩy phát triển kinh tế tại các đô thị.,1,0.252
+24,Thủ_tướng phát lệnh thông xe tuyến tránh thị_xã Tân_An,Thủ tướng đã ra lệnh cho phép lưu thông tuyến đường tránh qua thị xã Tân An.,2,0.549
+25,"Nghiêm_cấm hợp_thức_hoá vi_phạm xây_dựng , sử_dụng đất sai qui_hoạch",Ngành nông nghiệp đang khuyến khích người dân áp dụng các mô hình canh tác bền vững để bảo vệ môi trường.,0,0.263
+26,"Nghiêm_cấm hợp_thức_hoá vi_phạm xây_dựng , sử_dụng đất sai qui_hoạch",Công tác quản lý đô thị đang được siết chặt nhằm hạn chế tình trạng xây dựng trái phép và sử dụng đất không đúng mục đích.,1,0.708
+27,"Nghiêm_cấm hợp_thức_hoá vi_phạm xây_dựng , sử_dụng đất sai qui_hoạch",Việc hợp pháp hóa các sai phạm trong xây dựng và sử dụng đất không đúng quy hoạch bị nghiêm cấm.,2,0.7
+28,"Mức giá vận_chuyển cành mai , cành đào từ 80.000 - 150.000 đ / bó tuỳ chặng bay .",Giá hoa tươi tại các chợ đầu mối tăng mạnh vào dịp cận Tết do nhu cầu mua sắm của người dân gia tăng.,0,0.485
+29,"Mức giá vận_chuyển cành mai , cành đào từ 80.000 - 150.000 đ / bó tuỳ chặng bay .",Chi phí vận chuyển hàng hóa bằng đường hàng không thường thay đổi tùy theo quãng đường và loại mặt hàng.,1,0.573
+30,"Mức giá vận_chuyển cành mai , cành đào từ 80.000 - 150.000 đ / bó tuỳ chặng bay .","Cước phí chuyển cành mai và cành đào dao động từ 80.000 đến 150.000 đồng cho mỗi bó, tùy theo từng chặng bay.",2,0.86
+31,Cầu Tân_An cũ trở_thành tuyến lưu_thông theo hướng từ miền Tây lên TP. HCM .,Thành phố Hồ Chí Minh đang triển khai kế hoạch cải tạo hệ thống thoát nước để giảm ngập trong mùa mưa.,0,0.379
+32,Cầu Tân_An cũ trở_thành tuyến lưu_thông theo hướng từ miền Tây lên TP. HCM .,Việc phân luồng giao thông tại khu vực cửa ngõ miền Tây được điều chỉnh nhằm giảm ùn tắc cho các tuyến đường chính.,1,0.555
+33,Cầu Tân_An cũ trở_thành tuyến lưu_thông theo hướng từ miền Tây lên TP. HCM .,Cầu Tân An cũ hiện được sử dụng làm tuyến giao thông theo chiều từ các tỉnh miền Tây đi lên TP. Hồ Chí Minh.,2,0.77
+34,TP. HCM : kê_khai đăng_ký nhà_đất toàn TP năm 2004,Thành phố Hồ Chí Minh đang triển khai các dự án mở rộng hệ thống metro nhằm cải thiện giao thông công cộng.,0,0.221
+35,TP. HCM : kê_khai đăng_ký nhà_đất toàn TP năm 2004,Công tác quản lý và thống kê đất đai tại TP. Hồ Chí Minh được tăng cường để phục vụ quy hoạch và phát triển đô thị.,1,0.393
+36,TP. HCM : kê_khai đăng_ký nhà_đất toàn TP năm 2004,"Năm 2004, TP. Hồ Chí Minh đã tiến hành kê khai và đăng ký nhà đất trên phạm vi toàn thành phố.",2,0.536
+37,30 người cả già lẫn trẻ đang theo lớp xoá mù_chữ khi được hỏi 1 + 1 bằng bao_nhiêu họ đều cười_cười lắc_đầu .,Một nhóm sinh viên đại học đang tham gia cuộc thi lập trình để giải các bài toán thuật toán phức tạp.,0,0.276
+38,30 người cả già lẫn trẻ đang theo lớp xoá mù_chữ khi được hỏi 1 + 1 bằng bao_nhiêu họ đều cười_cười lắc_đầu .,"Một tình huống cụ thể là khi giáo viên hỏi ""1+1 bằng mấy"", nhiều học viên lớn tuổi trong các lớp xóa mù chỉ cười và lắc đầu.",1,0.627
+39,30 người cả già lẫn trẻ đang theo lớp xoá mù_chữ khi được hỏi 1 + 1 bằng bao_nhiêu họ đều cười_cười lắc_đầu .,"Có khoảng 30 học viên đủ mọi lứa tuổi đang học xoá mù chữ, và khi được hỏi phép tính 1 cộng 1 thì tất cả chỉ cười rồi lắc đầu.",2,0.782
+40,"Những ngày cuối_cùng của năm 2003 , TS Chấn tất_bật với việc chuyển công_ty ở Trung_Quốc về VN .","Cuối năm 2003, thị trường chứng khoán Việt Nam ghi nhận nhiều biến động về giá cổ phiếu ngân hàng.",0,0.384
+41,"Những ngày cuối_cùng của năm 2003 , TS Chấn tất_bật với việc chuyển công_ty ở Trung_Quốc về VN .",Nhiều doanh nhân Việt Nam trong giai đoạn đầu những năm 2000 đã cân nhắc việc đưa hoạt động sản xuất từ nước ngoài về trong nước.,1,0.448
+42,"Những ngày cuối_cùng của năm 2003 , TS Chấn tất_bật với việc chuyển công_ty ở Trung_Quốc về VN .","Vào những ngày cuối năm 2003, tiến sĩ Chấn bận rộn lo việc chuyển công ty từ Trung Quốc về Việt Nam.",2,0.691
+43,6.500 hộ nghèo Hà_Giang được hỗ_trợ mua Tivi,Nhiều doanh nghiệp điện tử trong nước đang đẩy mạnh sản xuất các dòng tivi thông minh phục vụ thị trường thành thị.,0,0.381
+44,6.500 hộ nghèo Hà_Giang được hỗ_trợ mua Tivi,Các chương trình an sinh xã hội tại vùng cao thường tập trung hỗ trợ người dân tiếp cận thông tin và phương tiện nghe nhìn.,1,0.299
+45,6.500 hộ nghèo Hà_Giang được hỗ_trợ mua Tivi,"Tại Hà Giang, 6.500 hộ nghèo đã được hỗ trợ kinh phí để mua tivi.",2,0.782
+46,"Đường vào xóm Đình_Phú_Định , phường 10 , quận 6 giống như bờ ruộng , lổn_nhổn gạch_đá và lõm_bõm nước .",Quận 6 đang tổ chức các hoạt động văn hóa cộng đồng nhằm thu hút người dân tham gia sinh hoạt cuối tuần.,0,0.177
+47,"Đường vào xóm Đình_Phú_Định , phường 10 , quận 6 giống như bờ ruộng , lổn_nhổn gạch_đá và lõm_bõm nước .","Nhiều tuyến đường trong khu dân cư nội thành vẫn chưa được nâng cấp, gây khó khăn cho việc đi lại của người dân.",1,0.418
+48,"Đường vào xóm Đình_Phú_Định , phường 10 , quận 6 giống như bờ ruộng , lổn_nhổn gạch_đá và lõm_bõm nước .","Lối vào xóm Đình Phú Định ở phường 10, quận 6 có mặt đường nham nhở như bờ ruộng, đầy gạch đá và đọng nhiều vũng nước.",2,0.83
+49,TP. HCM : triển_khai xây nhà lưu_trú công_nhân,Thành phố Hồ Chí Minh đang đẩy mạnh phát triển các khu du lịch sinh thái ven sông nhằm thu hút du khách.,0,0.218
+50,TP. HCM : triển_khai xây nhà lưu_trú công_nhân,Chính quyền TP. Hồ Chí Minh đang quan tâm đến việc cải thiện điều kiện sinh hoạt cho người lao động tại các khu công nghiệp.,1,0.437
+51,TP. HCM : triển_khai xây nhà lưu_trú công_nhân,TP. Hồ Chí Minh đang tiến hành xây dựng các khu nhà lưu trú dành cho công nhân.,2,0.53
+52,Công_nhân Cty TNHH CK VINA đình_công vì không được thưởng tết,Giá cả hàng hóa tiêu dùng tăng mạnh trong dịp cận Tết khiến nhiều gia đình phải thắt chặt chi tiêu.,0,0.217
+53,Công_nhân Cty TNHH CK VINA đình_công vì không được thưởng tết,"Một trong những nguyên nhân dẫn đến đình công, như ở Công ty CK VINA, thường là do công nhân không nhận được thưởng Tết như mong đợi.",1,0.642
+54,Công_nhân Cty TNHH CK VINA đình_công vì không được thưởng tết,"Do không được nhận thưởng Tết, công nhân Công ty TNHH CK VINA đã tổ chức đình công.",2,0.753
+55,"Ngày 7-1-2004 , tôi đến một nhà_thuốc trên đường Lê_Văn_Sĩ , Q. 3 , TP. HCM hỏi mua thuốc Tanakan .","Sáng nay, một quán cà phê mới vừa khai trương trên đường Lê Văn Sĩ, thu hút đông đảo khách trẻ.",0,0.285
+56,"Ngày 7-1-2004 , tôi đến một nhà_thuốc trên đường Lê_Văn_Sĩ , Q. 3 , TP. HCM hỏi mua thuốc Tanakan .",Thuốc Tanakan thường được kê đơn cho các bệnh nhân gặp vấn đề về tuần hoàn máu não và trí nhớ.,1,0.538
+57,"Ngày 7-1-2004 , tôi đến một nhà_thuốc trên đường Lê_Văn_Sĩ , Q. 3 , TP. HCM hỏi mua thuốc Tanakan .","Vào ngày 7/1/2004, tôi đã đến một hiệu thuốc trên đường Lê Văn Sĩ, quận 3, TP. Hồ Chí Minh để hỏi mua thuốc Tanakan.",2,0.79
+58,"Hầm đèo Hải_Vân rồi sẽ "" gánh_vác "" sứ_mệnh đảm_bảo lưu_thông trên con đường thiên_lý Bắc-Nam .",Ngành du lịch miền Trung đang đẩy mạnh quảng bá các điểm tham quan ven biển để thu hút khách quốc tế.,0,0.335
+59,"Hầm đèo Hải_Vân rồi sẽ "" gánh_vác "" sứ_mệnh đảm_bảo lưu_thông trên con đường thiên_lý Bắc-Nam .",Việc đầu tư các công trình giao thông trọng điểm được kỳ vọng sẽ góp phần giảm ùn tắc trên các tuyến đường huyết mạch của cả nước.,1,0.417
+60,"Hầm đèo Hải_Vân rồi sẽ "" gánh_vác "" sứ_mệnh đảm_bảo lưu_thông trên con đường thiên_lý Bắc-Nam .","Trong thời gian tới, hầm đèo Hải Vân sẽ đảm nhận vai trò bảo đảm giao thông thông suốt trên tuyến đường Bắc–Nam.",2,0.826
+61,"Từ Cần_Thơ đi TP HCM bằng máy_bay chỉ mất khoảng 26 phút , trong khi đi bằng đường_bộ phải mất hơn 3 h .",Các hãng hàng không đang mở thêm nhiều đường bay quốc tế mới để phục vụ nhu cầu du lịch sau dịch.,0,0.208
+62,"Từ Cần_Thơ đi TP HCM bằng máy_bay chỉ mất khoảng 26 phút , trong khi đi bằng đường_bộ phải mất hơn 3 h .",Việc lựa chọn phương tiện di chuyển ảnh hưởng lớn đến thời gian đi lại giữa các thành phố lớn ở miền Nam.,1,0.421
+63,"Từ Cần_Thơ đi TP HCM bằng máy_bay chỉ mất khoảng 26 phút , trong khi đi bằng đường_bộ phải mất hơn 3 h .","Hành trình từ Cần Thơ đến TP. Hồ Chí Minh nếu đi bằng máy bay chỉ khoảng 26 phút, còn di chuyển bằng đường bộ thì kéo dài trên 3 giờ.",2,0.744
+64,Giá vé từ Cần_Thơ đi TP Hồ_Chí_Minh dự_kiến là 350.000 đồng / vé .,Nhiều tuyến đường nội đô đang được sửa chữa để giảm ùn tắc giao thông.,0,0.2
+65,Giá vé từ Cần_Thơ đi TP Hồ_Chí_Minh dự_kiến là 350.000 đồng / vé .,Chi phí di chuyển giữa Cần Thơ và TP Hồ Chí Minh được cho là sẽ tăng trong thời gian tới.,1,0.458
+66,Giá vé từ Cần_Thơ đi TP Hồ_Chí_Minh dự_kiến là 350.000 đồng / vé .,Dự kiến giá mỗi vé đi từ Cần Thơ đến TP Hồ Chí Minh là 350.000 đồng.,2,0.741
+67,Giấy_phép xây dưng là công_cụ pháp_lý cần_thiết để quản_lý việc xây_dựng theo quy_hoạch .,Ngành tài chính đang áp dụng nhiều biện pháp mới nhằm kiểm soát lạm phát và ổn định thị trường tiền tệ.,0,0.292
+68,Giấy_phép xây dưng là công_cụ pháp_lý cần_thiết để quản_lý việc xây_dựng theo quy_hoạch .,Công tác quản lý đô thị cần dựa trên hệ thống quy định và chế tài để hạn chế tình trạng xây dựng trái phép.,1,0.628
+69,Giấy_phép xây dưng là công_cụ pháp_lý cần_thiết để quản_lý việc xây_dựng theo quy_hoạch .,Giấy phép xây dựng là phương tiện pháp lý quan trọng nhằm kiểm soát hoạt động xây dựng đúng theo quy hoạch.,2,0.727
+70,Luật quy_định công_trình xây_dựng chỉ được khởi_công khi có đủ thủ và nguồn vốn đầu_tư .,Chính phủ đang xem xét điều chỉnh chính sách thuế nhằm khuyến khích doanh nghiệp nhỏ và vừa phát triển.,0,0.166
+71,Luật quy_định công_trình xây_dựng chỉ được khởi_công khi có đủ thủ và nguồn vốn đầu_tư .,Việc quản lý các dự án đầu tư xây dựng cần tuân thủ nhiều quy định pháp lý để đảm bảo hiệu quả và tránh lãng phí.,1,0.566
+72,Luật quy_định công_trình xây_dựng chỉ được khởi_công khi có đủ thủ và nguồn vốn đầu_tư .,"Theo quy định của pháp luật, công trình xây dựng chỉ được phép khởi công khi đã hoàn tất đầy đủ thủ tục và bảo đảm có đủ nguồn vốn đầu tư.",2,0.867
+73,"Thưởng cho hành_khách phản_ảnh tình_trạng xe dù , cơm tù …",Nhiều nhà hàng đang nâng cấp chất lượng phục vụ để thu hút khách du lịch trong mùa cao điểm.,0,0.354
+74,"Thưởng cho hành_khách phản_ảnh tình_trạng xe dù , cơm tù …",Cơ quan chức năng đang tìm các biện pháp nhằm hạn chế tình trạng xe dù và nâng cao chất lượng dịch vụ vận tải hành khách.,1,0.432
+75,"Thưởng cho hành_khách phản_ảnh tình_trạng xe dù , cơm tù …","Hành khách sẽ được khen thưởng nếu cung cấp thông tin phản ánh về các hiện tượng xe dù, cơm tù và những vi phạm tương tự.",2,0.737
+76,"TP có 22 trung_tâm y_tế quận_huyện , nhiều nơi xây mới rất khang_trang nhưng khai_thác chưa hết công_suất .",Thành phố đang triển khai kế hoạch mở rộng hệ thống công viên cây xanh để cải thiện chất lượng không khí đô thị.,0,0.417
+77,"TP có 22 trung_tâm y_tế quận_huyện , nhiều nơi xây mới rất khang_trang nhưng khai_thác chưa hết công_suất .",Một số cơ sở y tế địa phương dù được đầu tư cơ sở vật chất nhưng vẫn gặp khó khăn trong việc thu hút người dân đến khám chữa bệnh.,1,0.62
+78,"TP có 22 trung_tâm y_tế quận_huyện , nhiều nơi xây mới rất khang_trang nhưng khai_thác chưa hết công_suất .","Toàn thành phố hiện có 22 trung tâm y tế cấp quận, huyện; nhiều cơ sở mới được xây dựng khang trang nhưng chưa được sử dụng hết công suất.",2,0.802
+79,"Bộ Y_tế đang soạn_thảo một đề_án về đảm_bảo cung_ứng thuốc cho người_dân , nhất_là thuốc trong danh_mục thiết_yếu nếu không thì lại mình tự làm khổ mình .",Bộ Giáo dục và Đào tạo đang xây dựng kế hoạch đổi mới chương trình sách giáo khoa ở bậc phổ thông.,0,0.311
+80,"Bộ Y_tế đang soạn_thảo một đề_án về đảm_bảo cung_ứng thuốc cho người_dân , nhất_là thuốc trong danh_mục thiết_yếu nếu không thì lại mình tự làm khổ mình .",Việc thiếu hụt thuốc tại các cơ sở y tế có thể gây nhiều khó khăn cho người bệnh và ảnh hưởng đến công tác chăm sóc sức khỏe cộng đồng.,1,0.659
+81,"Bộ Y_tế đang soạn_thảo một đề_án về đảm_bảo cung_ứng thuốc cho người_dân , nhất_là thuốc trong danh_mục thiết_yếu nếu không thì lại mình tự làm khổ mình .","Bộ Y tế đang xây dựng một đề án nhằm bảo đảm nguồn cung thuốc cho người dân, đặc biệt là các loại thuốc thiết yếu, để tránh gây khó khăn cho chính mình.",2,0.77
+82,"Con dugong có chiều dài 2,75 m , đường_kính 80 cm , nặng trên 400 kg .",Nhiều loài cá nước ngọt có kích thước nhỏ và sinh sống chủ yếu ở các con sông miền núi.,0,0.272
+83,"Con dugong có chiều dài 2,75 m , đường_kính 80 cm , nặng trên 400 kg .","Một cá thể dugong trưởng thành có thể đạt kích thước rất lớn, ví dụ dài gần 3 mét và nặng trên 400 kg.",1,0.731
+84,"Con dugong có chiều dài 2,75 m , đường_kính 80 cm , nặng trên 400 kg .","Cá thể dugong này dài khoảng 2,75 mét, có đường kính chừng 80 cm và trọng lượng vượt quá 400 kg.",2,0.822
+85,600.000 USD thiết_kế qui_hoạch khu trung_tâm Thủ_Thiêm,Thành phố đang kêu gọi đầu tư vào các dự án cải tạo chung cư cũ nhằm nâng cao chất lượng nhà ở cho người dân.,0,0.358
+86,600.000 USD thiết_kế qui_hoạch khu trung_tâm Thủ_Thiêm,Nhiều dự án quy hoạch đô thị lớn đòi hỏi kinh phí cao để thuê tư vấn thiết kế và xây dựng phương án phát triển tổng thể.,1,0.561
+87,600.000 USD thiết_kế qui_hoạch khu trung_tâm Thủ_Thiêm,Chi phí dành cho việc thiết kế quy hoạch khu trung tâm Thủ Thiêm là 600.000 USD.,2,0.786
+88,"Lượng khách đi xe_buýt tăng đột_biến đã "" đánh_thức "" thói_quen đi xe_buýt của người_dân thủ_đô từ thời sau bao_cấp .",Nhiều tuyến đường trong nội thành đang được mở rộng để giảm tình trạng ùn tắc giao thông.,0,0.397
+89,"Lượng khách đi xe_buýt tăng đột_biến đã "" đánh_thức "" thói_quen đi xe_buýt của người_dân thủ_đô từ thời sau bao_cấp .",Việc cải thiện chất lượng dịch vụ vận tải công cộng đã thu hút thêm người dân sử dụng phương tiện này.,1,0.56
+90,"Lượng khách đi xe_buýt tăng đột_biến đã "" đánh_thức "" thói_quen đi xe_buýt của người_dân thủ_đô từ thời sau bao_cấp .",Số lượng hành khách đi xe buýt tăng mạnh đã khiến người dân thủ đô quay lại thói quen sử dụng xe buýt như giai đoạn sau bao cấp.,2,0.843
+91, Trong quí 1-2004 rà_soát lại các qui_hoạch chi_tiết không còn khả_thi để xử_lý .,Thành phố tổ chức lễ khánh thành nhiều công trình văn hóa mới trong năm 2004.,0,0.285
+92, Trong quí 1-2004 rà_soát lại các qui_hoạch chi_tiết không còn khả_thi để xử_lý .,Các cơ quan chức năng tiến hành xem xét lại một số kế hoạch phát triển đô thị trong năm 2004.,1,0.542
+93, Trong quí 1-2004 rà_soát lại các qui_hoạch chi_tiết không còn khả_thi để xử_lý .,"Trong quý I năm 2004, các quy hoạch chi tiết không còn tính khả thi sẽ được rà soát và xử lý.",2,0.659
+94,Em Võ_Huỳnh_Anh_Khoa sải tay bơi giữa làn nước xanh .,Cuộc thi vẽ tranh thiếu nhi được tổ chức tại nhà văn hóa quận.,0,0.183
+95,Em Võ_Huỳnh_Anh_Khoa sải tay bơi giữa làn nước xanh .,"Bể bơi này nổi tiếng với làn nước trong xanh, lý tưởng cho việc luyện tập và thi đấu bơi lội.",1,0.43
+96,Em Võ_Huỳnh_Anh_Khoa sải tay bơi giữa làn nước xanh .,Em Võ Huỳnh Anh Khoa đang bơi giữa dòng nước trong xanh.,2,0.771
+97,Xin cảm_ơn ba_mẹ đã không quản sớm_chiều / nuôi_nấng con khôn_lớn / cho con nhiều niềm vui .,Buổi lễ khai giảng năm học mới được tổ chức trong không khí trang trọng.,0,0.222
+98,Xin cảm_ơn ba_mẹ đã không quản sớm_chiều / nuôi_nấng con khôn_lớn / cho con nhiều niềm vui .,Sự hy sinh sớm hôm của cha mẹ trong việc nuôi dưỡng và dành cho con cái những niềm vui là điều đáng để con cái biết ơn.,1,0.643
+99,Xin cảm_ơn ba_mẹ đã không quản sớm_chiều / nuôi_nấng con khôn_lớn / cho con nhiều niềm vui .,"Con biết ơn ba mẹ vì đã vất vả ngày đêm chăm sóc, nuôi dạy con trưởng thành và mang lại cho con nhiều hạnh phúc.",2,0.777
+100,"Lớn lên theo cha_mẹ đi làm_mướn , khi lấy chồng lại cũng gặp một anh chồng nghèo như chị .",Thành phố đang triển khai nhiều dự án phát triển hạ tầng giao thông.,0,0.159
+101,"Lớn lên theo cha_mẹ đi làm_mướn , khi lấy chồng lại cũng gặp một anh chồng nghèo như chị .",Nhiều phụ nữ lớn lên trong gia đình lao động nghèo và sau này cũng lập gia đình với người chồng có hoàn cảnh kinh tế khó khăn.,1,0.615
+102,"Lớn lên theo cha_mẹ đi làm_mướn , khi lấy chồng lại cũng gặp một anh chồng nghèo như chị .","Từ nhỏ theo cha mẹ làm thuê, đến khi lập gia đình chị vẫn kết hôn với một người chồng nghèo.",2,0.643
+103,"Phải xử_lý kỷ_luật hành_chính thật nghiêm mọi tổ_chức , cá_nhân nào vi_phạm .",Ngành du lịch đang tập trung quảng bá các điểm đến mới trong mùa cao điểm.,0,0.185
+104,"Phải xử_lý kỷ_luật hành_chính thật nghiêm mọi tổ_chức , cá_nhân nào vi_phạm .",Việc tăng cường giám sát và nâng cao trách nhiệm của cán bộ được xem là cần thiết để hạn chế sai phạm.,1,0.48
+105,"Phải xử_lý kỷ_luật hành_chính thật nghiêm mọi tổ_chức , cá_nhân nào vi_phạm .",Cần áp dụng biện pháp kỷ luật hành chính nghiêm khắc đối với tất cả tổ chức và cá nhân có hành vi vi phạm.,2,0.588
+106,"Theo kết_quả điều_tra của Sở NN & PTNT tỉnh Cà_Mau cuối năm 2002 , Cà_Mau có trên 14.000 hộ nông_dân không có đất sản_xuất .",Tỉnh Cà Mau đang đầu tư mở rộng hệ thống giao thông nông thôn ven biển.,0,0.371
+107,"Theo kết_quả điều_tra của Sở NN & PTNT tỉnh Cà_Mau cuối năm 2002 , Cà_Mau có trên 14.000 hộ nông_dân không có đất sản_xuất .",Nhiều hộ nông dân ở Cà Mau gặp khó khăn về sinh kế do thiếu tư liệu sản xuất.,1,0.579
+108,"Theo kết_quả điều_tra của Sở NN & PTNT tỉnh Cà_Mau cuối năm 2002 , Cà_Mau có trên 14.000 hộ nông_dân không có đất sản_xuất .","Cuối năm 2002, Sở Nông nghiệp và Phát triển nông thôn tỉnh Cà Mau cho biết địa phương có hơn 14.000 hộ nông dân không có đất để sản xuất.",2,0.785
+109,"Đầu năm 2004 , UBND tỉnh sẽ tiếp_tục thu_hồi và cân_đối diện_tích để cấp lại cho nông_dân .",Ngành giáo dục địa phương đang chuẩn bị kế hoạch tuyển sinh cho năm học mới.,0,0.432
+110,"Đầu năm 2004 , UBND tỉnh sẽ tiếp_tục thu_hồi và cân_đối diện_tích để cấp lại cho nông_dân .",Chính quyền địa phương đang xem xét các giải pháp hỗ trợ sản xuất và ổn định đời sống cho người dân nông thôn.,1,0.405
+111,"Đầu năm 2004 , UBND tỉnh sẽ tiếp_tục thu_hồi và cân_đối diện_tích để cấp lại cho nông_dân .","Vào đầu năm 2004, UBND tỉnh sẽ tiếp tục thu hồi, sắp xếp lại quỹ đất để phân bổ lại cho nông dân.",2,0.804
+112,Tôi xách Honda chạy một_mạch xuống U_Minh .,Buổi họp tổng kết cuối năm của công ty diễn ra tại hội trường lớn.,0,0.165
+113,Tôi xách Honda chạy một_mạch xuống U_Minh .,"Con đường từ thành phố xuống vùng U Minh khá bằng phẳng và thông thoáng, thuận tiện cho việc di chuyển bằng xe máy.",1,0.224
+114,Tôi xách Honda chạy một_mạch xuống U_Minh .,Tôi chạy xe Honda thẳng một mạch xuống vùng U Minh.,2,0.694
+115,"Xe chạy một_mạch suốt 10 tiếng đồng_hồ không nghỉ , mặc cho rất nhiều tiếng la_ó "" dừng lại cho đi vệ_sinh "" từ phía hành_khách .",Ban tổ chức đã hoàn tất công tác chuẩn bị cho lễ hội văn hóa mùa xuân.,0,0.166
+116,"Xe chạy một_mạch suốt 10 tiếng đồng_hồ không nghỉ , mặc cho rất nhiều tiếng la_ó "" dừng lại cho đi vệ_sinh "" từ phía hành_khách .","Việc xe chạy liên tục hàng giờ đồng hồ không dừng, bất chấp yêu cầu của hành khách, là một nguyên nhân phổ biến gây mệt mỏi và bức xúc trong các chuyến xe đường dài.",1,0.58
+117,"Xe chạy một_mạch suốt 10 tiếng đồng_hồ không nghỉ , mặc cho rất nhiều tiếng la_ó "" dừng lại cho đi vệ_sinh "" từ phía hành_khách .","Chiếc xe chạy liên tục suốt 10 giờ liền không dừng, dù nhiều hành khách liên tục yêu cầu được dừng lại để đi vệ sinh.",2,0.647
+118,"Xe lại lăn bánh , và những hành_khách lần_lượt rụng dần theo cách hành_xử rất côn_đồ của nhà_xe .",Giá vé xem phim cuối tuần tại các rạp trung tâm vừa được điều chỉnh.,0,0.165
+119,"Xe lại lăn bánh , và những hành_khách lần_lượt rụng dần theo cách hành_xử rất côn_đồ của nhà_xe .",Thái độ phục vụ thiếu chuyên nghiệp của một số hãng vận tải khiến khách hàng không hài lòng.,1,0.496
+120,"Xe lại lăn bánh , và những hành_khách lần_lượt rụng dần theo cách hành_xử rất côn_đồ của nhà_xe .","Chiếc xe tiếp tục chạy, còn hành khách thì lần lượt bỏ đi vì cách cư xử côn đồ của nhà xe.",2,0.669
+121,"Chiều nay 19 - 3 , Uỷ_ban Thường_vụ Quốc_hội sẽ cho ý_kiến về việc ban_hành cơ_chế tài_chính ngân_sách đặc_thù đối_với thủ_đô Hà_Nội và TP. HCM .",Bộ Giáo dục và Đào tạo vừa công bố lịch thi tốt nghiệp trung học phổ thông năm nay.,0,0.244
+122,"Chiều nay 19 - 3 , Uỷ_ban Thường_vụ Quốc_hội sẽ cho ý_kiến về việc ban_hành cơ_chế tài_chính ngân_sách đặc_thù đối_với thủ_đô Hà_Nội và TP. HCM .",Quốc hội đang xem xét nhiều chính sách mới nhằm tăng cường nguồn lực phát triển cho các đô thị lớn.,1,0.411
+123,"Chiều nay 19 - 3 , Uỷ_ban Thường_vụ Quốc_hội sẽ cho ý_kiến về việc ban_hành cơ_chế tài_chính ngân_sách đặc_thù đối_với thủ_đô Hà_Nội và TP. HCM .","Chiều ngày 19-3, Uỷ ban Thường vụ Quốc hội sẽ thảo luận và cho ý kiến về cơ chế tài chính, ngân sách đặc thù áp dụng cho Hà Nội và TP Hồ Chí Minh.",2,0.576
+124,"Cách trung_tâm TP. HCM 30 phút đi xe_máy và một chuyến phà , vậy_mà Cần_Giờ lại thuộc về một thế_giới khác , thế_giới của những người_dân lam_lũ .",Thị trường bất động sản khu vực phía Nam đang có dấu hiệu phục hồi nhẹ.,0,0.329
+125,"Cách trung_tâm TP. HCM 30 phút đi xe_máy và một chuyến phà , vậy_mà Cần_Giờ lại thuộc về một thế_giới khác , thế_giới của những người_dân lam_lũ .",Nhiều khu vực ven đô TP. HCM vẫn còn nhiều khó khăn về đời sống dù không quá xa trung tâm thành phố.,1,0.608
+126,"Cách trung_tâm TP. HCM 30 phút đi xe_máy và một chuyến phà , vậy_mà Cần_Giờ lại thuộc về một thế_giới khác , thế_giới của những người_dân lam_lũ .","Dù chỉ mất khoảng 30 phút chạy xe máy và qua một chuyến phà từ trung tâm TP.HCM, Cần Giờ vẫn như một thế giới khác, nơi người dân sống cuộc đời lam lũ.",2,0.713
+127,"Đêm giao_thừa , một con gà cúng , vài cái bánh_chưng ... Mồng 3 hết tết , cha_con anh lại kéo nhau ra những con rạch để bắt_đầu một năm mới lam_lũ .",Thành phố tổ chức bắn pháo hoa mừng năm mới với nhiều chương trình ca nhạc lớn.,0,0.362
+128,"Đêm giao_thừa , một con gà cúng , vài cái bánh_chưng ... Mồng 3 hết tết , cha_con anh lại kéo nhau ra những con rạch để bắt_đầu một năm mới lam_lũ .","Sau kỳ nghỉ Tết ngắn ngủi, nhiều gia đình lao động nghèo phải nhanh chóng quay lại công việc mưu sinh.",1,0.471
+129,"Đêm giao_thừa , một con gà cúng , vài cái bánh_chưng ... Mồng 3 hết tết , cha_con anh lại kéo nhau ra những con rạch để bắt_đầu một năm mới lam_lũ .","Đêm giao thừa chỉ có con gà cúng và vài chiếc bánh chưng, đến mồng 3 Tết, hai cha con lại ra các con rạch để tiếp tục cuộc sống lam lũ của năm mới.",2,0.782
+130,"Tết của anh_em trên các đảo sẽ có được cả âm_thanh , hương_vị ngày tết như của quê nhà .",Ngành du lịch biển đang xây dựng nhiều sản phẩm mới để thu hút khách quốc tế.,0,0.32
+131,"Tết của anh_em trên các đảo sẽ có được cả âm_thanh , hương_vị ngày tết như của quê nhà .","Các chuyến tàu tiếp tế đặc biệt trước Tết sẽ chở đầy thực phẩm, hoa quả và các vật phẩm văn hóa truyền thống ra cho bộ đội và nhân dân trên đảo.",1,0.607
+132,"Tết của anh_em trên các đảo sẽ có được cả âm_thanh , hương_vị ngày tết như của quê nhà .","Anh em trên các đảo sẽ được đón Tết với đầy đủ không khí, âm thanh và hương vị quen thuộc như ở quê hương.",2,0.882
+133,"Chợ , siêu_thị : sức_mua tăng cao , giá_cả cũng tăng !","Thời tiết những ngày gần đây khá ổn định, ít mưa và nhiệt độ giảm nhẹ.",0,0.138
+134,"Chợ , siêu_thị : sức_mua tăng cao , giá_cả cũng tăng !",Nhu cầu tiêu dùng của người dân tăng mạnh vào các dịp cao điểm trong năm.,1,0.65
+135,"Chợ , siêu_thị : sức_mua tăng cao , giá_cả cũng tăng !","Tại các chợ và siêu thị, lượng mua sắm tăng lên rõ rệt kéo theo giá hàng hóa cũng leo thang.",2,0.822
+136,"Các loại hàng tết đang bán_chạy như rượu , bánh thùng , lạp_xưởng … phải bổ_sung hàng liên_tục nhưng giá không tăng .",Nhiều trường học đang chuẩn bị kế hoạch tổ chức lễ tổng kết cuối năm.,0,0.252
+137,"Các loại hàng tết đang bán_chạy như rượu , bánh thùng , lạp_xưởng … phải bổ_sung hàng liên_tục nhưng giá không tăng .",Các siêu thị và đại lý lớn đã ký kết hợp đồng ổn định giá với nhà cung cấp để đảm bảo nguồn hàng dồi dào suốt dịp Tết.,1,0.486
+138,"Các loại hàng tết đang bán_chạy như rượu , bánh thùng , lạp_xưởng … phải bổ_sung hàng liên_tục nhưng giá không tăng .","Những mặt hàng Tết như rượu, bánh thùng, lạp xưởng đang tiêu thụ mạnh, phải liên tục nhập thêm nhưng giá bán vẫn được giữ ổn định.",2,0.802
+139,Dưa_hấu không hạt được bán tại đây với giá 8.000 - 10.000 đồng / trái .,Nhiều tuyến xe buýt nội thành được điều chỉnh lộ trình trong dịp lễ.,0,0.167
+140,Dưa_hấu không hạt được bán tại đây với giá 8.000 - 10.000 đồng / trái .,"Giá bán lẻ dưa hấu không hạt trong khu vực này hiện đang dao động, phụ thuộc vào kích cỡ và nguồn cung.",1,0.487
+141,Dưa_hấu không hạt được bán tại đây với giá 8.000 - 10.000 đồng / trái .,"Tại đây, dưa hấu không hạt được bán với mức giá dao động từ 8.000 đến 10.000 đồng mỗi trái.",2,0.862
+142,"Tại chợ Phạm_Văn_Hai , theo ban quản_lý chợ , lượng thịt về chợ 183,8 tấn / ngày , tăng 30 % so với đầu tuần .",Thành phố đang triển khai kế hoạch trồng thêm cây xanh trên các tuyến đường lớn.,0,0.294
+143,"Tại chợ Phạm_Văn_Hai , theo ban quản_lý chợ , lượng thịt về chợ 183,8 tấn / ngày , tăng 30 % so với đầu tuần .",Nguồn cung thực phẩm tại nhiều chợ đầu mối được tăng cường để đáp ứng nhu cầu mua sắm của người dân.,1,0.565
+144,"Tại chợ Phạm_Văn_Hai , theo ban quản_lý chợ , lượng thịt về chợ 183,8 tấn / ngày , tăng 30 % so với đầu tuần .","Ban quản lý chợ Phạm Văn Hai cho biết mỗi ngày có khoảng 183,8 tấn thịt được đưa về chợ, cao hơn 30% so với đầu tuần.",2,0.796
+145,Tại chợ Bến_Thành ( Q. 1 ) nhộn_nhịp nhất là các sạp hoa ở mặt_tiền chợ trên đường Lê_Thánh_Tôn .,Thành phố vừa thông qua kế hoạch cải tạo hệ thống thoát nước khu trung tâm.,0,0.186
+146,Tại chợ Bến_Thành ( Q. 1 ) nhộn_nhịp nhất là các sạp hoa ở mặt_tiền chợ trên đường Lê_Thánh_Tôn .,"Vào dịp cao điểm, nhiều khu chợ trung tâm thu hút đông người mua sắm các mặt hàng trang trí.",1,0.542
+147,Tại chợ Bến_Thành ( Q. 1 ) nhộn_nhịp nhất là các sạp hoa ở mặt_tiền chợ trên đường Lê_Thánh_Tôn .,"Ở chợ Bến Thành (quận 1), khu sạp bán hoa phía mặt tiền trên đường Lê Thánh Tôn là nơi sôi động nhất.",2,0.705
+148,"Sau hơn 1 giờ 30 phút bơm nước vào khoang , sà_lan chìm xuống dòng sông và trôi cách cầu hơn 300 m về phía thượng_nguồn .",Lễ khánh thành cây cầu mới thu hút đông đảo người dân đến tham dự.,0,0.171
+149,"Sau hơn 1 giờ 30 phút bơm nước vào khoang , sà_lan chìm xuống dòng sông và trôi cách cầu hơn 300 m về phía thượng_nguồn .",Một phương tiện đường thủy gặp sự cố nghiêm trọng khiến việc lưu thông trên sông bị ảnh hưởng.,1,0.531
+150,"Sau hơn 1 giờ 30 phút bơm nước vào khoang , sà_lan chìm xuống dòng sông và trôi cách cầu hơn 300 m về phía thượng_nguồn .","Sau hơn một giờ rưỡi bơm nước vào khoang, chiếc sà lan đã chìm xuống sông và trôi ngược lên thượng nguồn, cách cây cầu hơn 300 mét.",2,0.805
+151,"Chiều 16-1-2003 , Thành_đoàn TP. HCM đã tổ_chức lễ tổng_kết hoạt_động cơ_quan Thành_đoàn năm 2003 .",Ngân hàng Nhà nước vừa điều chỉnh lãi suất cho vay đối với doanh nghiệp nhỏ và vừa.,0,0.191
+152,"Chiều 16-1-2003 , Thành_đoàn TP. HCM đã tổ_chức lễ tổng_kết hoạt_động cơ_quan Thành_đoàn năm 2003 .","Nhiều tổ chức đoàn thể tại TP.HCM đã tiến hành đánh giá, nhìn lại kết quả công tác trong năm qua.",1,0.664
+153,"Chiều 16-1-2003 , Thành_đoàn TP. HCM đã tổ_chức lễ tổng_kết hoạt_động cơ_quan Thành_đoàn năm 2003 .","Vào chiều ngày 16-1-2003, Thành đoàn TP.HCM tổ chức lễ tổng kết các hoạt động của cơ quan Thành đoàn trong năm 2003.",2,0.745
+154,"Thực_tế , các vụ cháy lớn vừa_qua cho thấy việc chữa_cháy tại_chỗ quá kém và người_dân chưa chủ_động báo ngay với lực_lượng PCCC .",Thành phố đang đẩy mạnh tuyên truyền phân loại rác thải sinh hoạt tại nguồn.,0,0.201
+155,"Thực_tế , các vụ cháy lớn vừa_qua cho thấy việc chữa_cháy tại_chỗ quá kém và người_dân chưa chủ_động báo ngay với lực_lượng PCCC .",Công tác phòng cháy ở nhiều khu dân cư còn tồn tại hạn chế do ý thức và kỹ năng của người dân chưa cao.,1,0.702
+156,"Thực_tế , các vụ cháy lớn vừa_qua cho thấy việc chữa_cháy tại_chỗ quá kém và người_dân chưa chủ_động báo ngay với lực_lượng PCCC .","Qua những vụ hỏa hoạn lớn gần đây, thực tế đã phơi bày sự yếu kém trong chữa cháy tại chỗ, cũng như việc người dân vẫn thiếu sự chủ động trong việc thông báo ngay cho cảnh sát PCCC.",2,0.828
+157,"Dịp tết : Nguy_cơ cháy , nổ ở khu dân_cư rất lớn",Lượng khách du lịch đến các điểm vui chơi tăng mạnh trong kỳ nghỉ Tết.,0,0.411
+158,"Dịp tết : Nguy_cơ cháy , nổ ở khu dân_cư rất lớn","Vào những dịp lễ lớn, công tác đảm bảo an toàn tại các khu dân cư cần được tăng cường.",1,0.593
+159,"Dịp tết : Nguy_cơ cháy , nổ ở khu dân_cư rất lớn","Trong dịp Tết, nguy cơ xảy ra cháy nổ tại các khu dân cư ở mức rất cao.",2,0.834
+160,TP. HCM : cháy lớn ở Khu công_nghiệp Vĩnh_Lộc,Thành phố vừa khai trương thêm một tuyến xe buýt kết nối khu ngoại thành.,0,0.255
+161,TP. HCM : cháy lớn ở Khu công_nghiệp Vĩnh_Lộc,Một vụ hỏa hoạn nghiêm trọng đã xảy ra tại khu vực sản xuất công nghiệp của thành phố.,1,0.591
+162,TP. HCM : cháy lớn ở Khu công_nghiệp Vĩnh_Lộc,"Một vụ cháy lớn đã bùng phát tại Khu công nghiệp Vĩnh Lộc, TP Hồ Chí Minh.",2,0.64
+163,Quảng_Ngãi : cấp phép đầu_tư khai_thác đá graphite cho một công_ty Nga,Ngành nông nghiệp Quảng Ngãi đang triển khai mô hình trồng lúa chất lượng cao.,0,0.234
+164,Quảng_Ngãi : cấp phép đầu_tư khai_thác đá graphite cho một công_ty Nga,Một địa phương miền Trung đã thu hút vốn đầu tư nước ngoài vào lĩnh vực tài nguyên khoáng sản.,1,0.429
+165,Quảng_Ngãi : cấp phép đầu_tư khai_thác đá graphite cho một công_ty Nga,Tỉnh Quảng Ngãi đã cấp phép cho một doanh nghiệp Nga đầu tư khai thác đá graphite.,2,0.882
+166,"TT - Chiều 16 - 1 , giá vàng thế_giới giảm thêm 7 USD , còn 409 USD / ounce , kéo_theo giá vàng trong nước giảm mạnh .",Thị trường chứng khoán trong nước ghi nhận nhiều cổ phiếu tăng trần trong phiên giao dịch chiều nay.,0,0.258
+167,"TT - Chiều 16 - 1 , giá vàng thế_giới giảm thêm 7 USD , còn 409 USD / ounce , kéo_theo giá vàng trong nước giảm mạnh .",Biến động của thị trường kim loại quý quốc tế đang tác động đáng kể đến giá cả trong nước.,1,0.464
+168,"TT - Chiều 16 - 1 , giá vàng thế_giới giảm thêm 7 USD , còn 409 USD / ounce , kéo_theo giá vàng trong nước giảm mạnh .","Chiều 16-1, giá vàng thế giới giảm 7 USD xuống còn 409 USD mỗi ounce, khiến giá vàng trong nước cũng sụt giảm mạnh.",2,0.932
+169,Giá cao nhất được Công_ty Vàng_bạc đá_quí Sài_Gòn ( SJC ) niêm_yết là tại Đà_Nẵng : 783.000 đồng / chỉ .,Thành phố Đà Nẵng đang đẩy mạnh phát triển du lịch biển trong mùa hè.,0,0.299
+170,Giá cao nhất được Công_ty Vàng_bạc đá_quí Sài_Gòn ( SJC ) niêm_yết là tại Đà_Nẵng : 783.000 đồng / chỉ .,Giá vàng do các doanh nghiệp lớn công bố có sự chênh lệch giữa các khu vực trên cả nước.,1,0.436
+171,Giá cao nhất được Công_ty Vàng_bạc đá_quí Sài_Gòn ( SJC ) niêm_yết là tại Đà_Nẵng : 783.000 đồng / chỉ .,Công ty Vàng bạc đá quý Sài Gòn (SJC) niêm yết mức giá cao nhất tại Đà Nẵng là 783.000 đồng mỗi chỉ.,2,0.733
+172,"Điều cần_thiết hiện_nay là khoa_học công_nghệ , chuyên_môn và tiêu_chuẩn của các nước phát_triển trước .",Nhiều địa phương đang tập trung phát triển nông nghiệp công nghệ cao để nâng cao thu nhập cho nông dân.,0,0.507
+173,"Điều cần_thiết hiện_nay là khoa_học công_nghệ , chuyên_môn và tiêu_chuẩn của các nước phát_triển trước .",Việc nâng cao trình độ chuyên môn và ứng dụng khoa học kỹ thuật là yêu cầu quan trọng trong quá trình phát triển hiện nay.,1,0.561
+174,"Điều cần_thiết hiện_nay là khoa_học công_nghệ , chuyên_môn và tiêu_chuẩn của các nước phát_triển trước .","Khoa học công nghệ, chuyên môn và tiêu chuẩn của các quốc gia phát triển là những điều cần thiết hiện nay.",2,0.648
+175,Mong_ước lớn nhất của tôi trong lĩnh_vực kinh_tế là các doanh_nghiệp Đức sẽ xúc_tiến đầu_tư tại VN mạnh_mẽ hơn thời_gian vừa_qua .,Ngành du lịch Việt Nam đang nỗ lực thu hút thêm khách quốc tế trong những năm gần đây.,0,0.401
+176,Mong_ước lớn nhất của tôi trong lĩnh_vực kinh_tế là các doanh_nghiệp Đức sẽ xúc_tiến đầu_tư tại VN mạnh_mẽ hơn thời_gian vừa_qua .,"Hiện nay, Đức đang là một trong những đối tác thương mại và đầu tư quan trọng hàng đầu của Việt Nam trong khối EU.",1,0.657
+177,Mong_ước lớn nhất của tôi trong lĩnh_vực kinh_tế là các doanh_nghiệp Đức sẽ xúc_tiến đầu_tư tại VN mạnh_mẽ hơn thời_gian vừa_qua .,"Trong lĩnh vực kinh tế, tôi kỳ vọng các doanh nghiệp Đức sẽ tăng cường đầu tư vào Việt Nam nhiều hơn so với thời gian trước đây.",2,0.821
+178,"VN và Indonesia có rất nhiều tiềm_năng , đặc_biệt trong lĩnh_vực kinh_tế vốn chưa được khai_thác đầy_đủ .",Việt Nam đang tập trung cải thiện hệ_thống giáo_dục để nâng cao chất_lượng nguồn nhân_lực.,0,0.411
+179,"VN và Indonesia có rất nhiều tiềm_năng , đặc_biệt trong lĩnh_vực kinh_tế vốn chưa được khai_thác đầy_đủ .",Nhiều quốc gia trong khu_vực Đông_Nam_Á vẫn còn dư_địa phát_triển kinh_tế chưa được khai_thác hiệu_quả.,1,0.829
+180,"VN và Indonesia có rất nhiều tiềm_năng , đặc_biệt trong lĩnh_vực kinh_tế vốn chưa được khai_thác đầy_đủ .","Việt Nam và Indonesia có rất nhiều tiềm năng, đặc biệt trong lĩnh vực kinh tế chưa được khai thác đầy đủ.",2,0.895
+181,"Tôi cũng mong trong năm tới , Hãng hàng_không Indonesia Garuda sẽ mở thêm đường_bay Jakarta - Hà_Nội để tạo thuận_lợi cho nhân_dân hai nước thăm_viếng nhau .",Hà_Nội đang triển_khai nhiều dự_án chỉnh_trang đô_thị nhằm giảm ùn_tắc giao_thông.,0,0.293
+182,"Tôi cũng mong trong năm tới , Hãng hàng_không Indonesia Garuda sẽ mở thêm đường_bay Jakarta - Hà_Nội để tạo thuận_lợi cho nhân_dân hai nước thăm_viếng nhau .",Việc mở thêm các đường_bay quốc_tế sẽ giúp tăng_cường giao_lưu giữa các quốc_gia trong khu_vực.,1,0.636
+183,"Tôi cũng mong trong năm tới , Hãng hàng_không Indonesia Garuda sẽ mở thêm đường_bay Jakarta - Hà_Nội để tạo thuận_lợi cho nhân_dân hai nước thăm_viếng nhau .","Tôi hy vọng rằng trong những năm tới , hãng Garuda Indonesia sẽ khai thác thêm tuyến Jakarta – Hà Nội, giúp việc đi lại, thăm hỏi giữa người dân hai nước trở nên thuận tiện hơn.",2,0.921
+184,Trung_tâm IPR sẽ bắt_đầu mở_cửa vào ngày 19-1-2004 .,Giá vé xe_khách dịp cận_tết năm nay tăng nhẹ so với cùng_kỳ năm trước.,0,0.231
+185,Trung_tâm IPR sẽ bắt_đầu mở_cửa vào ngày 19-1-2004 .,Một trung_tâm dịch_vụ mới sẽ chính_thức đi vào hoạt_động trong tháng 1 năm 2004.,1,0.597
+186,Trung_tâm IPR sẽ bắt_đầu mở_cửa vào ngày 19-1-2004 .,Trung_tâm IPR dự_kiến chính_thức hoạt_động từ ngày 19-1-2004.,2,0.793
+187,TP. HCM : ước khoảng 10.000 du_khách du_xuân hải_ngoại,Giá phòng khách_sạn tại TP. HCM tăng mạnh trong dịp lễ tết.,0,0.334
+188,TP. HCM : ước khoảng 10.000 du_khách du_xuân hải_ngoại,"Trong dịp tết, TP. HCM đón một lượng lớn du khách từ nhiều quốc gia về tham quan.",1,0.64
+189,TP. HCM : ước khoảng 10.000 du_khách du_xuân hải_ngoại,"Dịp du_xuân, TP. HCM dự_kiến sẽ đón khoảng 10.000 du_khách hải_ngoại.",2,0.858
+190,Đất tại Bình_Trị_Đông được giới đầu_cơ mua_bán sang_tay cho dân ở các quận bị giải_toả tràn về khá đông .,Nông_dân ở các tỉnh miền_Tây đang gặp khó_khăn trong việc tiêu_thụ nông_sản do giá xuống thấp.,0,0.234
+191,Đất tại Bình_Trị_Đông được giới đầu_cơ mua_bán sang_tay cho dân ở các quận bị giải_toả tràn về khá đông .,"Tại nhiều khu_vực ven đô TP. HCM, giá đất tăng nhanh do nhu_cầu tái_định_cư sau giải_toả ngày càng lớn.",1,0.672
+192,Đất tại Bình_Trị_Đông được giới đầu_cơ mua_bán sang_tay cho dân ở các quận bị giải_toả tràn về khá đông .,Đất đai ở khu vực Bình Trị Đông đang được các nhà đầu cơ chuyển nhượng cho những người dân từ các quận bị giải tỏa đổ về sinh sống.,2,0.732
+193,Việc rao bán đất ở quận 2 trong tháng ba khá nhộn_nhịp với giá_cả không biến_động .,Sản_lượng lúa vụ đông_xuân năm nay tại các tỉnh đồng_bằng sông Cửu_Long đạt mức cao kỷ_lục.,0,0.199
+194,Việc rao bán đất ở quận 2 trong tháng ba khá nhộn_nhịp với giá_cả không biến_động .,Thị_trường bất_động_sản tại một số quận nội_thành TP. HCM ghi_nhận lượng giao_dịch tăng trong quý đầu năm.,1,0.467
+195,Việc rao bán đất ở quận 2 trong tháng ba khá nhộn_nhịp với giá_cả không biến_động .,"Trong tháng ba, hoạt_động chào_bán đất tại quận 2 diễn_ra sôi_động trong khi mức giá vẫn giữ nguyên.",2,0.697
+196,Mồng 4 tết tôi trở ra Hà_Nội để trở_lại làm_việc bình_thường và chuẩn_bị đón_tiếp tân Thủ_tướng Malaysia sang thăm VN .,"Nhiều địa_phương tổ_chức các hoạt_động vui_xuân, lễ_hội truyền_thống trong suốt kỳ nghỉ tết.",0,0.374
+197,Mồng 4 tết tôi trở ra Hà_Nội để trở_lại làm_việc bình_thường và chuẩn_bị đón_tiếp tân Thủ_tướng Malaysia sang thăm VN .,"Sau kỳ nghỉ tết, các cơ_quan trung_ương bắt_đầu trở_lại làm_việc và triển_khai công_tác đối_ngoại đầu năm.",1,0.59
+198,Mồng 4 tết tôi trở ra Hà_Nội để trở_lại làm_việc bình_thường và chuẩn_bị đón_tiếp tân Thủ_tướng Malaysia sang thăm VN .,"Ngay mồng 4 tết, tôi quay lại Hà_Nội làm_việc bình_thường để chuẩn_bị công_tác tiếp_đón tân Thủ_tướng Malaysia thăm Việt_Nam.",2,0.92
+199,"Từ một ông chủ trang_trại gà , chỉ sau mấy ngày dịch cúm "" ghé qua "" , ông_bà Hai_Đực trở_thành một trong những người nghèo nhất xóm này .",Nhiều hộ gia_đình trong khu_vực đang đầu_tư mở rộng diện_tích trồng cây ăn_trái để tăng thu_nhập.,0,0.233
+200,"Từ một ông chủ trang_trại gà , chỉ sau mấy ngày dịch cúm "" ghé qua "" , ông_bà Hai_Đực trở_thành một trong những người nghèo nhất xóm này .","Dịch bệnh trên gia_súc, gia_cầm đã khiến không ít nông_hộ rơi vào cảnh khó_khăn về kinh_tế.",1,0.641
+201,"Từ một ông chủ trang_trại gà , chỉ sau mấy ngày dịch cúm "" ghé qua "" , ông_bà Hai_Đực trở_thành một trong những người nghèo nhất xóm này .","Sau khi dịch cúm bùng_phát vài ngày, ông_bà Hai_Đực từ chỗ làm chủ trại gà đã lâm vào cảnh nghèo nhất trong xóm.",2,0.921
+202,"Thành_phố Hà_Nội cho_phép các quận , huyện tổ_chức 18 điểm chợ hoa phục_vụ Tết Giáp_Thân .",Nhiều tỉnh miền_Trung đang khẩn_trương triển_khai kế_hoạch phòng_chống hạn_hán cho vụ hè_thu.,0,0.115
+203,"Thành_phố Hà_Nội cho_phép các quận , huyện tổ_chức 18 điểm chợ hoa phục_vụ Tết Giáp_Thân .","Dịp tết, các địa_phương tại Hà_Nội được giao nhiệm_vụ tăng_cường công_tác quản_lý và tổ_chức các hoạt_động phục_vụ người_dân.",1,0.49
+204,"Thành_phố Hà_Nội cho_phép các quận , huyện tổ_chức 18 điểm chợ hoa phục_vụ Tết Giáp_Thân .","UBND TP. Hà_Nội đã cho phép các quận, huyện mở 18 chợ hoa nhằm phục_vụ nhu_cầu Tết Giáp_Thân.",2,0.916
+205,"Hàng năm , 4 cơ_sở ở Châu_Đốc sản_xuất hơn 2.000 tấn cá_tra nguyên_liệu làm cá_tra phồng .",Ngành du_lịch Châu_Đốc đang thu_hút ngày_càng nhiều du_khách trong các dịp lễ hội lớn.,0,0.544
+206,"Hàng năm , 4 cơ_sở ở Châu_Đốc sản_xuất hơn 2.000 tấn cá_tra nguyên_liệu làm cá_tra phồng .",Sản phẩm cá tra phồng thành phẩm từ Châu Đốc được tiêu thụ rộng rãi trong nước và có tiềm năng xuất khẩu,1,0.586
+207,"Hàng năm , 4 cơ_sở ở Châu_Đốc sản_xuất hơn 2.000 tấn cá_tra nguyên_liệu làm cá_tra phồng .","Mỗi năm, bốn cơ_sở sản_xuất tại Châu_Đốc cung_ứng trên 2.000 tấn cá_tra làm nguyên_liệu chế_biến cá_tra phồng.",2,0.942
+208,"Hiện_nay , mỗi ngày Sóc_Trăng ra thịt hơn 250 con heo tại các lò giết_mổ , vào cận tết dự_kiến tăng lên 800 - 900 con / ngày .",Giá lúa tại nhiều địa_phương đồng_bằng sông Cửu_Long đang có xu_hướng giảm do nguồn_cung dồi_dào.,0,0.381
+209,"Hiện_nay , mỗi ngày Sóc_Trăng ra thịt hơn 250 con heo tại các lò giết_mổ , vào cận tết dự_kiến tăng lên 800 - 900 con / ngày .",Nhu_cầu tiêu_thụ thực_phẩm tăng cao dịp cận tết khiến hoạt_động giết_mổ gia_súc ở nhiều tỉnh miền_Tây trở_nên nhộn_nhịp hơn.,1,0.654
+210,"Hiện_nay , mỗi ngày Sóc_Trăng ra thịt hơn 250 con heo tại các lò giết_mổ , vào cận tết dự_kiến tăng lên 800 - 900 con / ngày .","Mỗi ngày hiện Sóc_Trăng giết_mổ trên 250 con heo, và khi gần tết con_số này được dự_báo sẽ tăng lên khoảng 800–900 con một ngày.",2,0.929
+211,"Ramses đệ nhị là một trong những pharaoh oai_hùng nhất - 1.300 năm trước Công_nguyên , trị_vì 65 năm .",Kim_tự_tháp Giza được xây_dựng với kỹ_thuật kiến_trúc phức_tạp và vẫn còn gây nhiều tranh_luận cho giới khoa_học.,0,0.524
+212,"Ramses đệ nhị là một trong những pharaoh oai_hùng nhất - 1.300 năm trước Công_nguyên , trị_vì 65 năm .","Trong lịch_sử Ai_Cập cổ_đại, nhiều pharaoh có thời_gian cầm_quyền dài và để lại dấu_ấn quân_sự lẫn chính_trị.",1,0.61
+213,"Ramses đệ nhị là một trong những pharaoh oai_hùng nhất - 1.300 năm trước Công_nguyên , trị_vì 65 năm .","Ramses II là vị pharaoh hùng_mạnh bậc nhất, trị_vì suốt 65 năm vào khoảng 1.300 năm trước Công_nguyên.",2,0.921
+214,Ngành du_lịch Ai_Cập đang xây_dựng một đường_ống bằng kính xuyên qua những cung_điện dưới nước này cho khách tham_quan .,Chính_phủ Ai_Cập đang triển_khai các dự_án thủy_lợi lớn nhằm cải_thiện nguồn nước cho nông_nghiệp.,0,0.555
+215,Ngành du_lịch Ai_Cập đang xây_dựng một đường_ống bằng kính xuyên qua những cung_điện dưới nước này cho khách tham_quan .,Ai_Cập đang đẩy_mạnh các sản_phẩm du_lịch mới dựa trên việc khai_thác các di_sản văn_hóa và lịch_sử.,1,0.661
+216,Ngành du_lịch Ai_Cập đang xây_dựng một đường_ống bằng kính xuyên qua những cung_điện dưới nước này cho khách tham_quan .,Ngành du_lịch Ai_Cập hiện xây_dựng một hệ_thống ống kính cho phép du_khách tham_quan các cung_điện nằm dưới nước.,2,0.933
+217,"Số du_khách nước_ngoài đến Ai_Cập năm 2003 đạt 5 triệu người , là con_số đã giảm do ảnh_hưởng của các cuộc xung_đột và chiến_tranh trong một_số nước vùng Trung_Đông .",Ai_Cập đang đầu_tư nâng_cấp hệ_thống giao_thông để phục_vụ nhu_cầu đi_lại của người_dân trong nước.,0,0.444
+218,"Số du_khách nước_ngoài đến Ai_Cập năm 2003 đạt 5 triệu người , là con_số đã giảm do ảnh_hưởng của các cuộc xung_đột và chiến_tranh trong một_số nước vùng Trung_Đông .",Tình_hình bất_ổn tại khu_vực Trung_Đông đã tác_động tiêu_cực đến ngành du_lịch của nhiều quốc_gia trong vùng.,1,0.701
+219,"Số du_khách nước_ngoài đến Ai_Cập năm 2003 đạt 5 triệu người , là con_số đã giảm do ảnh_hưởng của các cuộc xung_đột và chiến_tranh trong một_số nước vùng Trung_Đông .","Năm 2003, Ai_Cập đón khoảng 5 triệu du_khách quốc_tế, giảm so với trước do tác_động của xung_đột và chiến_tranh ở một_số nước Trung_Đông.",2,0.901
+220,"Ngày 31-8-2001 , Thủ_tướng Chính_phủ đã có quyết_định về việc xây_dựng dự_án khu di_tích lịch_sử Hoàng_Sa - Trường_Sa trên huyện đảo Lý_Sơn , tỉnh Quảng_Ngãi .",Người_dân các tỉnh ven_biển miền_Trung đang chuẩn_bị đối_phó với mùa mưa bão sắp tới.,0,0.29
+221,"Ngày 31-8-2001 , Thủ_tướng Chính_phủ đã có quyết_định về việc xây_dựng dự_án khu di_tích lịch_sử Hoàng_Sa - Trường_Sa trên huyện đảo Lý_Sơn , tỉnh Quảng_Ngãi .",Nhà_nước đã phê_duyệt nhiều dự_án bảo_tồn và phát_huy giá_trị di_tích lịch_sử tại các địa_phương ven_biển.,1,0.478
+222,"Ngày 31-8-2001 , Thủ_tướng Chính_phủ đã có quyết_định về việc xây_dựng dự_án khu di_tích lịch_sử Hoàng_Sa - Trường_Sa trên huyện đảo Lý_Sơn , tỉnh Quảng_Ngãi .","Vào ngày 31-8-2001, Thủ_tướng đã quyết_định triển_khai dự_án xây_dựng khu di_tích lịch_sử Hoàng_Sa – Trường_Sa tại huyện đảo Lý_Sơn, Quảng_Ngãi.",2,0.798
+223,Hiện_nay Hoàng_Sa là đơn_vị hành_chính trực_thuộc TP Đà_Nẵng .,TP. Đà_Nẵng đang triển_khai nhiều dự_án chỉnh_trang đô_thị dọc bờ biển.,0,0.492
+224,Hiện_nay Hoàng_Sa là đơn_vị hành_chính trực_thuộc TP Đà_Nẵng .,Đà_Nẵng là thành_phố trực_thuộc trung_ương và quản_lý nhiều đơn_vị hành_chính quan_trọng.,1,0.61
+225,Hiện_nay Hoàng_Sa là đơn_vị hành_chính trực_thuộc TP Đà_Nẵng .,Hoàng_Sa hiện được xác_định là một đơn_vị hành_chính thuộc quyền quản_lý của TP Đà_Nẵng.,2,0.906
+226,"Ngày 7-11-2003 , hầm đường_bộ đèo Hải_Vân đã chính_thức thông xe kỹ_thuật , cuối năm 2004 , đầu năm 2005 sẽ hoàn_tất , đưa vào khai_thác .",Nhiều tuyến quốc_lộ ở miền_Trung đang được nâng_cấp để giảm ùn_tắc giao_thông trong mùa mưa bão.,0,0.381
+227,"Ngày 7-11-2003 , hầm đường_bộ đèo Hải_Vân đã chính_thức thông xe kỹ_thuật , cuối năm 2004 , đầu năm 2005 sẽ hoàn_tất , đưa vào khai_thác .",Các dự_án hạ_tầng giao_thông trọng_điểm thường được đưa vào vận_hành thử trước khi hoàn_thành toàn_bộ.,1,0.475
+228,"Ngày 7-11-2003 , hầm đường_bộ đèo Hải_Vân đã chính_thức thông xe kỹ_thuật , cuối năm 2004 , đầu năm 2005 sẽ hoàn_tất , đưa vào khai_thác .",Hầm đường_bộ đèo Hải_Vân đã thông xe kỹ_thuật vào ngày 7-11-2003 và dự_kiến hoàn_thành để khai_thác vào cuối năm 2004 hoặc đầu năm 2005.,2,0.918
+229,"Cũng theo Bộ Nội_chính ĐL , có đến khoảng 20 % phụ_nữ VN làm dâu ở ĐL không hoà_hợp được với chồng và gia_đình nhà chồng , dẫn đến ly_hôn .",Xuất_khẩu lao_động của Việt_Nam sang các nước châu_Á đang có xu_hướng tăng trong những năm gần đây.,0,0.354
+230,"Cũng theo Bộ Nội_chính ĐL , có đến khoảng 20 % phụ_nữ VN làm dâu ở ĐL không hoà_hợp được với chồng và gia_đình nhà chồng , dẫn đến ly_hôn .",Nhiều phụ_nữ Việt_Nam kết_hôn với người nước_ngoài gặp khó_khăn trong việc thích_nghi văn_hóa và đời_sống gia_đình.,1,0.681
+231,"Cũng theo Bộ Nội_chính ĐL , có đến khoảng 20 % phụ_nữ VN làm dâu ở ĐL không hoà_hợp được với chồng và gia_đình nhà chồng , dẫn đến ly_hôn .","Theo Bộ Nội_chính ĐL, khoảng 20% phụ_nữ Việt_Nam làm dâu tại Đài_Loan không hòa_hợp với chồng và gia_đình chồng, nên đã dẫn tới ly_hôn.",2,0.772
+232,"Một buổi sáng , ông Vương_Mộc_Chi dẫn tôi đến thăm một nhà_máy sản_xuất linh_kiện ôtô mà ông làm giám_đốc ở thành_phố Chương_Hoá - nhà_máy Kim_Thượng_Hoà .",Ngành công_nghiệp dệt_may tại miền_Trung đang thu_hút thêm nhiều lao_động trẻ trong năm nay.,0,0.365
+233,"Một buổi sáng , ông Vương_Mộc_Chi dẫn tôi đến thăm một nhà_máy sản_xuất linh_kiện ôtô mà ông làm giám_đốc ở thành_phố Chương_Hoá - nhà_máy Kim_Thượng_Hoà .",Một số doanh_nghiệp sản_xuất linh_kiện ôtô tại các thành_phố công_nghiệp đang mở_rộng quy_mô hoạt_động.,1,0.495
+234,"Một buổi sáng , ông Vương_Mộc_Chi dẫn tôi đến thăm một nhà_máy sản_xuất linh_kiện ôtô mà ông làm giám_đốc ở thành_phố Chương_Hoá - nhà_máy Kim_Thượng_Hoà .","Vào một buổi sáng, ông Vương_Mộc_Chi đã đưa tôi đi tham_quan nhà_máy Kim_Thượng_Hoà, nơi ông giữ chức giám_đốc tại thành_phố Chương_Hoá và chuyên sản_xuất linh_kiện ôtô.",2,0.926
+235,"Thanh là con thứ 3 trong một gia_đình bố_mẹ đã già , quanh_năm đầu_tắt_mặt_tối với mảnh vườn ở xã Tân_Lộc , huyện Thốt_Nốt , tỉnh Cần_Thơ .",Nhiều thanh_niên tại các đô_thị lớn lựa_chọn làm_việc trong lĩnh_vực công_nghiệp và dịch_vụ.,0,0.309
+236,"Thanh là con thứ 3 trong một gia_đình bố_mẹ đã già , quanh_năm đầu_tắt_mặt_tối với mảnh vườn ở xã Tân_Lộc , huyện Thốt_Nốt , tỉnh Cần_Thơ .","Nhiều gia_đình nông_dân ở vùng đồng_bằng sông Cửu_Long có cuộc_sống vất_vả, phụ_thuộc chủ_yếu vào sản_xuất vườn_tược.",1,0.589
+237,"Thanh là con thứ 3 trong một gia_đình bố_mẹ đã già , quanh_năm đầu_tắt_mặt_tối với mảnh vườn ở xã Tân_Lộc , huyện Thốt_Nốt , tỉnh Cần_Thơ .","Thanh là người con thứ ba của một gia_đình có cha_mẹ đã lớn tuổi, quanh năm cần_cù làm_lụng trên mảnh vườn tại xã Tân_Lộc, huyện Thốt_Nốt, tỉnh Cần_Thơ.",2,0.729
+238,"Đêm cuối năm gió lạnh , dọc những quán nhậu vỉa_hè bờ kênh Nhiêu_Lộc - Thị_Nghè , nhiều cụ_già vẫn cần_mẫn rảo bước với xấp vé_số trên tay .",Các cửa_hàng thời_trang trong trung_tâm thành_phố đồng_loạt giảm_giá mạnh để kích_cầu mua_sắm cuối năm.,0,0.24
+239,"Đêm cuối năm gió lạnh , dọc những quán nhậu vỉa_hè bờ kênh Nhiêu_Lộc - Thị_Nghè , nhiều cụ_già vẫn cần_mẫn rảo bước với xấp vé_số trên tay .","Trong những ngày giáp tết, nhiều lao_động lớn tuổi vẫn mưu_sinh bằng các công_việc bán_hàng rong trên đường_phố TP. HCM.",1,0.456
+240,"Đêm cuối năm gió lạnh , dọc những quán nhậu vỉa_hè bờ kênh Nhiêu_Lộc - Thị_Nghè , nhiều cụ_già vẫn cần_mẫn rảo bước với xấp vé_số trên tay .","Giữa đêm cuối năm se_lạnh, ven các quán nhậu vỉa_hè dọc kênh Nhiêu_Lộc – Thị_Nghè, nhiều cụ_già vẫn lặng_lẽ đi bán vé_số với xấp vé trên tay.",2,0.882
+241,"Tết là ngày những người già như các cụ được con_cháu mừng_tuổi , chúc_phúc - lộc - thọ .",Nhiều gia_đình trẻ lựa_chọn đi du_lịch xa trong dịp nghỉ tết để thư_giãn sau một năm làm_việc.,0,0.454
+242,"Tết là ngày những người già như các cụ được con_cháu mừng_tuổi , chúc_phúc - lộc - thọ .","Trong dịp tết, con_cháu thường sum_họp gia_đình và thể_hiện sự quan_tâm đến ông_bà, cha_mẹ.",1,0.715
+243,"Tết là ngày những người già như các cụ được con_cháu mừng_tuổi , chúc_phúc - lộc - thọ .","Ngày tết là dịp để các cụ cao_tuổi được con_cháu mừng_tuổi và gửi lời chúc phúc, lộc, thọ.",2,0.958
+244,Qua khảo_sát thực_tế chúng_tôi ghi_nhận được rất nhiều mặt_hàng thuốc ngoại đang tăng_giá .,Sản_lượng điện tiêu_thụ toàn_quốc tăng mạnh trong mùa khô do nhu_cầu sinh_hoạt và sản_xuất.,0,0.351
+245,Qua khảo_sát thực_tế chúng_tôi ghi_nhận được rất nhiều mặt_hàng thuốc ngoại đang tăng_giá .,"Thị_trường dược_phẩm gần đây có nhiều biến_động về giá, ảnh_hưởng đến chi_phí điều_trị của người_bệnh.",1,0.771
+246,Qua khảo_sát thực_tế chúng_tôi ghi_nhận được rất nhiều mặt_hàng thuốc ngoại đang tăng_giá .,"Từ kết_quả khảo_sát thực_tế, chúng_tôi nhận_thấy nhiều loại thuốc nhập_khẩu đang có xu_hướng tăng_giá.",2,0.849
+247,Công_ty Zuellig_Pharma từ ngày 15-12-2003 đã báo tăng_giá thuốc nhiều mặt_hàng so với tháng 11-2003 và mức tăng cũng khá cao .,Ngành dược_trong_nước đang đẩy_mạnh sản_xuất thuốc_generic để giảm phụ_thuộc vào nhập_khẩu.,0,0.389
+248,Công_ty Zuellig_Pharma từ ngày 15-12-2003 đã báo tăng_giá thuốc nhiều mặt_hàng so với tháng 11-2003 và mức tăng cũng khá cao .,"Trong cuối năm 2003, thị_trường dược_phẩm ghi_nhận nhiều doanh_nghiệp điều_chỉnh giá bán thuốc theo xu_hướng tăng.",1,0.748
+249,Công_ty Zuellig_Pharma từ ngày 15-12-2003 đã báo tăng_giá thuốc nhiều mặt_hàng so với tháng 11-2003 và mức tăng cũng khá cao .,"Kể từ ngày 15-12-2003, Công_ty Zuellig_Pharma đã thông_báo tăng giá nhiều mặt_hàng thuốc so với tháng 11-2003, với mức điều_chỉnh khá lớn.",2,0.923
+250,"Ngày 11-1-1988 , núi Bân được Nhà_nước công_nhận di_tích lịch_sử văn_hoá cấp quốc_gia .",Nhiều khu_du_lịch sinh_thái ở miền_Trung đang được đầu_tư để thu_hút khách tham_quan.,0,0.362
+251,"Ngày 11-1-1988 , núi Bân được Nhà_nước công_nhận di_tích lịch_sử văn_hoá cấp quốc_gia .",Nhà_nước đã xếp_hạng nhiều địa_điểm có giá_trị lịch_sử – văn_hoá làm di_tích cấp quốc_gia.,1,0.675
+252,"Ngày 11-1-1988 , núi Bân được Nhà_nước công_nhận di_tích lịch_sử văn_hoá cấp quốc_gia .","Vào ngày 11-1-1988, Nhà_nước đã chính_thức công_nhận núi Bân là di_tích lịch_sử văn_hoá cấp quốc_gia.",2,0.91
+253,"Năm 1998 , Bảo_tàng Tổng_hợp Thừa_Thiên - Huế cho dựng bia di_tích ở núi Bân , nghiêm_cấm xây_cất lăng_mộ và mọi hành_vi xâm_hại đến di_tích .",Chính_quyền địa_phương đang quy_hoạch lại các khu dân_cư mới để đáp_ứng nhu_cầu nhà_ở của người_dân.,0,0.11
+254,"Năm 1998 , Bảo_tàng Tổng_hợp Thừa_Thiên - Huế cho dựng bia di_tích ở núi Bân , nghiêm_cấm xây_cất lăng_mộ và mọi hành_vi xâm_hại đến di_tích .",Nhiều di_tích lịch_sử tại Thừa_Thiên – Huế đã được gắn biển bảo_vệ và áp_dụng các quy_định nhằm hạn_chế xâm_hại.,1,0.597
+255,"Năm 1998 , Bảo_tàng Tổng_hợp Thừa_Thiên - Huế cho dựng bia di_tích ở núi Bân , nghiêm_cấm xây_cất lăng_mộ và mọi hành_vi xâm_hại đến di_tích .","Năm 1998, Bảo_tàng Tổng_hợp Thừa_Thiên – Huế đã dựng bia di_tích tại núi Bân và ban_hành quy_định cấm xây lăng_mộ cũng như mọi hành_vi xâm_phạm di_tích.",2,0.894
+256,Thành_lập đội quản_lý từ 2 - 3 người thường_xuyên theo_dõi giám_sát ; lập chế_độ bồi_dưỡng thích_hợp cho đội bảo_vệ khu di_tích …,Nhiều doanh_nghiệp đang cải_tiến quy_trình sản_xuất nhằm nâng_cao năng_suất lao_động.,0,0.284
+257,Thành_lập đội quản_lý từ 2 - 3 người thường_xuyên theo_dõi giám_sát ; lập chế_độ bồi_dưỡng thích_hợp cho đội bảo_vệ khu di_tích …,Công_tác bảo_tồn di_tích đòi_hỏi phải có lực_lượng chuyên_trách và cơ_chế hỗ_trợ phù_hợp để hoạt_động hiệu_quả.,1,0.629
+258,Thành_lập đội quản_lý từ 2 - 3 người thường_xuyên theo_dõi giám_sát ; lập chế_độ bồi_dưỡng thích_hợp cho đội bảo_vệ khu di_tích …,"Cần lập một đội quản_lý gồm 2–3 người để theo_dõi, giám_sát thường_xuyên, đồng_thời xây_dựng chế_độ bồi_dưỡng phù_hợp cho lực_lượng bảo_vệ khu di_tích.",2,0.89
+259,"Đối_với đồng_bào dân_tộc thì giỏi chuyên_môn chưa đủ mà phải gần_gũi , thương_yêu , tin_cậy như ruột_thịt mới tuyên_truyền vận_động được .",Các chương_trình đào_tạo nghề hiện_nay tập_trung nâng_cao tay_nghề kỹ_thuật cho lao_động trẻ ở đô_thị.,0,0.273
+260,"Đối_với đồng_bào dân_tộc thì giỏi chuyên_môn chưa đủ mà phải gần_gũi , thương_yêu , tin_cậy như ruột_thịt mới tuyên_truyền vận_động được .","Công_tác dân_vận ở vùng sâu, vùng xa đòi_hỏi cán_bộ phải hiểu phong_tục, tập_quán và đời_sống của người_dân địa_phương.",1,0.643
+261,"Đối_với đồng_bào dân_tộc thì giỏi chuyên_môn chưa đủ mà phải gần_gũi , thương_yêu , tin_cậy như ruột_thịt mới tuyên_truyền vận_động được .","Khi làm việc với đồng_bào dân_tộc, ngoài năng_lực chuyên_môn còn cần sự gần_gũi, yêu_thương và tạo được niềm_tin thì mới có thể tuyên_truyền, vận_động hiệu_quả.",2,0.806
+262,"Y_sĩ Lê_Văn_Hiếu là người ăn tết làng nhiều năm nay , anh kể : Tết ở làng vui lắm , tuy bà_con còn nghèo nhưng rất giàu tình_cảm .",Ngành y_tế đang triển_khai nhiều chương_trình nâng_cao chất_lượng khám_chữa_bệnh ở các bệnh_viện tuyến trung_ương.,0,0.258
+263,"Y_sĩ Lê_Văn_Hiếu là người ăn tết làng nhiều năm nay , anh kể : Tết ở làng vui lắm , tuy bà_con còn nghèo nhưng rất giàu tình_cảm .",Người_dân ở nhiều vùng nông_thôn tuy cuộc_sống còn khó_khăn nhưng luôn giữ được không_khí sinh_hoạt cộng_đồng đầm_ấm vào dịp lễ tết.,1,0.692
+264,"Y_sĩ Lê_Văn_Hiếu là người ăn tết làng nhiều năm nay , anh kể : Tết ở làng vui lắm , tuy bà_con còn nghèo nhưng rất giàu tình_cảm .","Theo lời y_sĩ Lê_Văn_Hiếu, nhiều năm đón Tết cùng dân_làng giúp anh cảm_nhận rõ rằng dù cuộc_sống còn nghèo nhưng tình_cảm bà_con nơi đây luôn đậm_đà và ấm_áp.",2,0.795
+265,"Các thuỷ_thủ VN có đầy_đủ kiến_thức về hàng_hải , hiểu_biết về hải_trình để thực_hiện chuyến đi an_toàn , và còn biết chọn con đường đẹp , bình_an và ngắn nhất nữa",Ngành du_lịch biển đang được đầu_tư phát_triển với nhiều tuyến tham_quan mới dành cho du_khách quốc_tế.,0,0.447
+266,"Các thuỷ_thủ VN có đầy_đủ kiến_thức về hàng_hải , hiểu_biết về hải_trình để thực_hiện chuyến đi an_toàn , và còn biết chọn con đường đẹp , bình_an và ngắn nhất nữa","Nhờ chất lượng đào tạo bài bản, đội tàu Việt Nam luôn được đánh giá cao về độ an toàn và hiệu quả trong các hải trình quốc tế.",1,0.664
+267,"Các thuỷ_thủ VN có đầy_đủ kiến_thức về hàng_hải , hiểu_biết về hải_trình để thực_hiện chuyến đi an_toàn , và còn biết chọn con đường đẹp , bình_an và ngắn nhất nữa","Thuỷ_thủ Việt_Nam được trang_bị kiến_thức hàng_hải vững_vàng , nắm rõ hải_trình nên có thể đi biển an_toàn và lựa_chọn lộ_trình ngắn , êm_đề và thuận_lợi nhất.",2,0.924
+268,"Ở trên tàu , đi trên biển nhiều ngày , chúng_tôi bỗng thấy hết_thảy mọi người , mọi vật đều đáng yêu , lên bờ giống như lên thiên_đường .",Khu du_lịch ven biển đang thu_hút đông đảo du_khách nhờ cảnh_quan đẹp và nhiều dịch_vụ giải_trí mới.,0,0.355
+269,"Ở trên tàu , đi trên biển nhiều ngày , chúng_tôi bỗng thấy hết_thảy mọi người , mọi vật đều đáng yêu , lên bờ giống như lên thiên_đường .","Sau những chuyến đi dài và vất_vả , con người thường dễ rung_động và trân_trọng hơn những điều bình_dị xung_quanh.",1,0.53
+270,"Ở trên tàu , đi trên biển nhiều ngày , chúng_tôi bỗng thấy hết_thảy mọi người , mọi vật đều đáng yêu , lên bờ giống như lên thiên_đường .","Sau nhiều ngày lênh_đênh trên biển , ở trên tàu , chúng_tôi cảm_thấy ai cũng dễ_mến và khi được đặt_chân lên bờ thì cảm_giác chẳng khác nào bước vào thiên_đường.",2,0.794
+271,"Chúng_tôi mở nhạc thật lớn trên boong , cá_heo nghe tiếng nhạc , từng đàn bơi theo , nhảy_múa trước mũi tàu .",Buổi biểu_diễn âm_nhạc ngoài trời thu_hút rất đông khán_giả đến xem và cổ_vũ.,0,0.493
+272,"Chúng_tôi mở nhạc thật lớn trên boong , cá_heo nghe tiếng nhạc , từng đàn bơi theo , nhảy_múa trước mũi tàu .","Trong những chuyến đi biển , du_khách đôi_khi bắt_gặp các loài sinh_vật biển bơi gần tàu , tạo nên cảnh_tượng thú_vị.",1,0.542
+273,"Chúng_tôi mở nhạc thật lớn trên boong , cá_heo nghe tiếng nhạc , từng đàn bơi theo , nhảy_múa trước mũi tàu .","Khi nhạc vang lên trên boong tàu , những đàn cá_heo bơi sát theo mũi tàu và liên_tục nhào_lộn như đang múa theo âm_thanh.",2,0.814
+274,"Những thuỷ_thủ dày_dạn kinh_nghiệm đứng nhìn cá_voi mà lo_lắng , các anh_em trẻ thì đua nhau nhìn ngắm , chụp ảnh .",Các nhiếp_ảnh_gia tập_trung ghi_lại khoảnh_khắc đẹp trong lễ_hội đông người ở quảng_trường.,0,0.33
+275,"Những thuỷ_thủ dày_dạn kinh_nghiệm đứng nhìn cá_voi mà lo_lắng , các anh_em trẻ thì đua nhau nhìn ngắm , chụp ảnh .","Trên tàu biển , mỗi người có một phản_ứng khác nhau khi bắt_gặp những hiện_tượng bất_ngờ giữa đại_dương.",1,0.483
+276,"Những thuỷ_thủ dày_dạn kinh_nghiệm đứng nhìn cá_voi mà lo_lắng , các anh_em trẻ thì đua nhau nhìn ngắm , chụp ảnh .","Khi cá_voi xuất_hiện gần tàu , những thuỷ_thủ nhiều kinh_nghiệm tỏ ra thận_trọng , còn lớp trẻ thì háo_hức quan_sát và ghi_lại hình_ảnh.",2,0.831
+277,Huyện Đồng_Văn có đến 54.000 dân sống trên nền đá .,Nhiều khu đô_thị mới được xây_dựng ở vùng đồng_bằng với cơ_sở hạ_tầng hiện_đại.,0,0.384
+278,Huyện Đồng_Văn có đến 54.000 dân sống trên nền đá .,Người_dân ở một_số huyện miền_núi phía_Bắc phải sinh_sống trong điều_kiện địa_hình rất khắc_nghiệt.,1,0.469
+279,Huyện Đồng_Văn có đến 54.000 dân sống trên nền đá .,"Tại huyện Đồng_Văn , khoảng 54.000 người đang sinh_sống trên vùng địa_hình toàn đá.",2,0.905
+280,"Rời khỏi cao_nguyên Đồng_Văn , tâm_trí của tôi vẫn đọng lại những mảng màu xanh rực_rỡ trong không_gian xám_xịt của núi đá .","Buổi chiều ở thành_phố , dòng xe cộ đông_đúc khiến giao_thông trở_nên ngột_ngạt.",0,0.134
+281,"Rời khỏi cao_nguyên Đồng_Văn , tâm_trí của tôi vẫn đọng lại những mảng màu xanh rực_rỡ trong không_gian xám_xịt của núi đá .",Cao_nguyên đá phía_Bắc gây ấn_tượng mạnh bởi sự tương_phản giữa thiên_nhiên khắc_nghiệt và sức_sống của cây_cỏ.,1,0.494
+282,"Rời khỏi cao_nguyên Đồng_Văn , tâm_trí của tôi vẫn đọng lại những mảng màu xanh rực_rỡ trong không_gian xám_xịt của núi đá .","Khi rời cao_nguyên Đồng_Văn , trong tôi vẫn còn in_đậm sắc xanh tươi_nổi bật giữa khung_cảnh núi đá xám lạnh.",2,0.767
+283,"Quận 3 , TP. HCM : sập nhà , 2 người chết , 8 người bị_thương",Thành_phố đang triển_khai kế_hoạch mở_rộng nhiều tuyến đường giao_thông nội_đô.,0,0.285
+284,"Quận 3 , TP. HCM : sập nhà , 2 người chết , 8 người bị_thương",Một vụ tai_nạn nghiêm_trọng xảy ra tại khu_dân_cư ở TP. HCM khiến nhiều người bị thương.,1,0.769
+285,"Quận 3 , TP. HCM : sập nhà , 2 người chết , 8 người bị_thương","Tại quận 3 , TP. HCM đã xảy ra vụ sập nhà làm 2 người thiệt_mạng và 8 người bị_thương.",2,0.915
+286,"Đường vào xóm Đình_Phú_Định , phường 10 , quận 6 giống như bờ ruộng , lổn_nhổn gạch_đá và lõm_bõm nước .",Một khu dân_cư mới ở ngoại_ô được đầu_tư xây_dựng với đường nhựa rộng và hệ_thống thoát_nước hoàn_chỉnh.,0,0.244
+287,"Đường vào xóm Đình_Phú_Định , phường 10 , quận 6 giống như bờ ruộng , lổn_nhổn gạch_đá và lõm_bõm nước .","Nhiều tuyến hẻm trong nội_thành TP. HCM xuống_cấp nghiêm_trọng , gây khó_khăn cho việc đi_lại của người_dân.",1,0.455
+288,"Đường vào xóm Đình_Phú_Định , phường 10 , quận 6 giống như bờ ruộng , lổn_nhổn gạch_đá và lõm_bõm nước .","Lối vào xóm Đình_Phú_Định thuộc phường 10 , quận 6 lầy_lội , đầy gạch_đá ngổn_ngang như một bờ ruộng.",2,0.857
+289,"Dự_án phòng_khám miễn_phí cho người vô_gia_cư thành_lập , anh được mời về và trở_thành giáo_dục_viên An_Hoà .",Một doanh_nghiệp tư_nhân vừa khai_trương trung_tâm đào_tạo nghề cho lao_động trẻ.,0,0.41
+290,"Dự_án phòng_khám miễn_phí cho người vô_gia_cư thành_lập , anh được mời về và trở_thành giáo_dục_viên An_Hoà .",Nhiều chương_trình hỗ_trợ cộng_đồng đã được triển_khai nhằm giúp đỡ người có hoàn_cảnh khó_khăn.,1,0.482
+291,"Dự_án phòng_khám miễn_phí cho người vô_gia_cư thành_lập , anh được mời về và trở_thành giáo_dục_viên An_Hoà .","Khi dự_án mở phòng_khám miễn_phí dành cho người vô_gia_cư ra_đời , anh được mời tham_gia và đảm_nhận vai_trò giáo_dục_viên tại An_Hoà.",2,0.904
+292,"Tỉnh Hà_Giang đang triển_khai hỗ_trợ đồng_bào nghèo , đặc_biệt ở vùng_sâu , vùng_xa mua ti_vi để đón mừng năm mới .",Ngành điện_lực địa_phương đang đầu_tư nâng_cấp lưới_điện nhằm bảo_đảm cung_ứng ổn_định.,0,0.354
+293,"Tỉnh Hà_Giang đang triển_khai hỗ_trợ đồng_bào nghèo , đặc_biệt ở vùng_sâu , vùng_xa mua ti_vi để đón mừng năm mới .",Nhiều địa_phương miền_núi tổ_chức các chương_trình trợ_giúp người_dân khó_khăn trong dịp tết.,1,0.63
+294,"Tỉnh Hà_Giang đang triển_khai hỗ_trợ đồng_bào nghèo , đặc_biệt ở vùng_sâu , vùng_xa mua ti_vi để đón mừng năm mới .","Hà_Giang đang thực_hiện chính_sách hỗ_trợ các hộ nghèo ở vùng_sâu , vùng_xa mua ti_vi để vui tết năm mới.",2,0.952
+295,"Công_nghệ bán_dẫn là công_nghệ đem lại sự phồn_vinh về kinh_tế cho khắp thế_giới , trong đó có Mỹ , Nhật , Đài_Loan , Hàn_Quốc , Trung_Quốc , nhiều nước ở châu_Âu .",Nông_nghiệp công_nghệ cao đang được áp_dụng rộng_rãi tại nhiều vùng nông_thôn.,0,0.583
+296,"Công_nghệ bán_dẫn là công_nghệ đem lại sự phồn_vinh về kinh_tế cho khắp thế_giới , trong đó có Mỹ , Nhật , Đài_Loan , Hàn_Quốc , Trung_Quốc , nhiều nước ở châu_Âu .",Nhiều quốc_gia xem phát_triển công_nghệ cao là động_lực quan_trọng để thúc_đẩy tăng_trưởng kinh_tế.,1,0.765
+297,"Công_nghệ bán_dẫn là công_nghệ đem lại sự phồn_vinh về kinh_tế cho khắp thế_giới , trong đó có Mỹ , Nhật , Đài_Loan , Hàn_Quốc , Trung_Quốc , nhiều nước ở châu_Âu .","Ngành công_nghệ bán_dẫn đã góp_phần mang lại thịnh_vượng kinh_tế cho nhiều nước trên thế_giới như Mỹ , Nhật , Đài_Loan , Hàn_Quốc , Trung_Quốc và các quốc_gia châu_Âu.",2,0.959
+298,Từ đầu tháng chín đến cuối tháng ba âm_lịch là mùa làm_ăn của đội thợ_săn và các chợ chim lại tấp_nập .,Nhiều khu du_lịch ven biển bắt_đầu đông khách vào dịp hè hằng năm.,0,0.477
+299,Từ đầu tháng chín đến cuối tháng ba âm_lịch là mùa làm_ăn của đội thợ_săn và các chợ chim lại tấp_nập .,Một_số nghề truyền_thống ở nông_thôn hoạt_động mạnh theo từng mùa trong năm.,1,0.497
+300,Từ đầu tháng chín đến cuối tháng ba âm_lịch là mùa làm_ăn của đội thợ_săn và các chợ chim lại tấp_nập .,Khoảng thời_gian từ tháng chín đến hết tháng ba âm_lịch là lúc thợ_săn làm_ăn sôi_động và các chợ chim trở_nên nhộn_nhịp.,2,0.952
+301,Việc xác_định lại giới_tính được thực_hiện theo qui_định của luật_pháp,Trường học đang tổ chức kỳ thi học kỳ.,0,0.187
+302,Việc xác_định lại giới_tính được thực_hiện theo qui_định của luật_pháp,Nhiều vấn đề xã hội được điều chỉnh bằng pháp luật.,1,0.321
+303,Việc xác_định lại giới_tính được thực_hiện theo qui_định của luật_pháp,Việc xác định lại giới tính phải tuân thủ các quy định của pháp luật.,2,0.688
+304,"Tôi ớn_lạnh cả người , với cái rét cắt_da_cắt_thịt .",Tôi thích uống nước nóng vào mùa đông.,0,0.376
+305,"Tôi ớn_lạnh cả người , với cái rét cắt_da_cắt_thịt .",Thời tiết lạnh khiến con người khó chịu.,1,0.551
+306,"Tôi ớn_lạnh cả người , với cái rét cắt_da_cắt_thịt .",Tôi cảm thấy ớn lạnh khắp người vì cái rét có thể cắt đứt da thịt.,2,0.792
+307,Khi nhiệt_độ ngoài_trời hạ xuống dưới 8°C cả thị_trấn Mèo_Vạc như chìm trong sương_mù .,Người dân đang thu hoạch lúa ngoài đồng.,0,0.133
+308,Khi nhiệt_độ ngoài_trời hạ xuống dưới 8°C cả thị_trấn Mèo_Vạc như chìm trong sương_mù .,Thời tiết lạnh ảnh hưởng đến sinh hoạt của người dân vùng cao.,1,0.532
+309,Khi nhiệt_độ ngoài_trời hạ xuống dưới 8°C cả thị_trấn Mèo_Vạc như chìm trong sương_mù .,"Mỗi khi nhiệt độ ngoài trời giảm xuống dưới 8 độ C, toàn bộ thị trấn Mèo Vạc dường như chìm trong làn sương mù.",2,0.692
+310,"Kiên_Giang : Cướp_biển tấn_công cướp tàu , 4 người chết và mất_tích",Giá xăng dầu trong nước tiếp tục điều chỉnh theo thị trường thế giới.,0,0.186
+311,"Kiên_Giang : Cướp_biển tấn_công cướp tàu , 4 người chết và mất_tích",An ninh hàng hải tại các tỉnh ven biển phía Nam đang được tăng cường.,1,0.342
+312,"Kiên_Giang : Cướp_biển tấn_công cướp tàu , 4 người chết và mất_tích",Một vụ cướp biển xảy ra trên vùng biển Kiên Giang khiến nhiều thuyền viên thương vong.,2,0.679
+313,Đồng_Tháp_Mười - những dòng kênh ô_nhiễm,Du lịch biển thu hút nhiều du khách vào mùa hè.,0,0.064
+314,Đồng_Tháp_Mười - những dòng kênh ô_nhiễm,Ô nhiễm môi trường đang là vấn đề đáng lo ngại.,1,0.456
+315,Đồng_Tháp_Mười - những dòng kênh ô_nhiễm,Các dòng kênh ở Đồng Tháp Mười đang bị ô nhiễm nghiêm trọng.,2,0.585
+316,Vì nhiều lý_do 60 % BN đến BV Ung_bướu đã ở giai_đoạn muộn nên kết_quả điều_trị không được khả_quan .,Bệnh viện đang xây dựng thêm khu mới.,0,0.361
+317,Vì nhiều lý_do 60 % BN đến BV Ung_bướu đã ở giai_đoạn muộn nên kết_quả điều_trị không được khả_quan .,Nhiều bệnh nhân gặp khó khăn trong quá trình điều trị.,1,0.572
+318,Vì nhiều lý_do 60 % BN đến BV Ung_bướu đã ở giai_đoạn muộn nên kết_quả điều_trị không được khả_quan .,"Do nhiều nguyên nhân, 60% bệnh nhân đến Bệnh viện Ung bướu đã ở vào giai đoạn muộn, vì vậy kết quả điều trị không khả quan.",2,0.843
+319,"Áp_thấp_nhiệt_đới vừa xuất_hiện ngoài vùng phía bắc biển Đông , sức gió mạnh nhất cấp 6 , cấp 7 ( khoảng 39 - 61 km / giờ ) , giật trên cấp 7 .",Nông dân đang chuẩn bị gieo trồng vụ mới.,0,0.093
+320,"Áp_thấp_nhiệt_đới vừa xuất_hiện ngoài vùng phía bắc biển Đông , sức gió mạnh nhất cấp 6 , cấp 7 ( khoảng 39 - 61 km / giờ ) , giật trên cấp 7 .",Thời tiết trên biển có nhiều diễn biến phức tạp.,1,0.341
+321,"Áp_thấp_nhiệt_đới vừa xuất_hiện ngoài vùng phía bắc biển Đông , sức gió mạnh nhất cấp 6 , cấp 7 ( khoảng 39 - 61 km / giờ ) , giật trên cấp 7 .",Một áp thấp nhiệt đới mới hình thành ở khu vực phía Bắc Biển Đông với sức gió mạnh cấp 6–7 (tương đương 39 - 61 km/h) và giật trên cấp 7.,2,0.784
+322,"Sau gấu , nai , trăn , cá_sấu đến nay nhím là một loài thú rừng được nuôi như gia_súc .",Trẻ em trong bản đang đến trường.,0,0.177
+323,"Sau gấu , nai , trăn , cá_sấu đến nay nhím là một loài thú rừng được nuôi như gia_súc .",Nhiều loài động vật hoang dã được thuần hóa để phục vụ chăn nuôi.,1,0.636
+324,"Sau gấu , nai , trăn , cá_sấu đến nay nhím là một loài thú rừng được nuôi như gia_súc .","Nhím hiện nay cũng là một loài thú rừng được nuôi như gia súc, tiếp nối sau các loài như gấu, nai, trăn và cá sấu.",2,0.846
+325,TP. HCM : bất_động_sản tiếp_tục đóng_băng do giá vàng tăng,Người dân đang chuẩn bị đón Tết Nguyên đán.,0,0.032
+326,TP. HCM : bất_động_sản tiếp_tục đóng_băng do giá vàng tăng,Biến động giá vàng ảnh hưởng đến nhiều lĩnh vực kinh tế.,1,0.422
+327,TP. HCM : bất_động_sản tiếp_tục đóng_băng do giá vàng tăng,Thị trường bất động sản TP.HCM tiếp tục trong tình trạng đóng băng vì giá vàng tăng.,2,0.739
+328,Thuỷ_điện miền Nam có khả_năng cung_ứng cho miền Bắc 1.000 mw / ngày,Thời tiết hôm nay khá thuận lợi cho việc đi lại.,0,0.185
+329,Thuỷ_điện miền Nam có khả_năng cung_ứng cho miền Bắc 1.000 mw / ngày,Nguồn điện giữa các vùng có thể hỗ trợ lẫn nhau khi cần thiết.,1,0.429
+330,Thuỷ_điện miền Nam có khả_năng cung_ứng cho miền Bắc 1.000 mw / ngày,Các nhà máy thủy điện miền Nam có thể cung cấp khoảng 1.000 MW điện mỗi ngày cho miền Bắc.,2,0.87
+331,Ngôn_ngữ là sự thể_hiện của tinh_thần con_người .,Con đường làng rất yên bình vào buổi chiều.,0,0.152
+332,Ngôn_ngữ là sự thể_hiện của tinh_thần con_người .,Con người thể hiện suy nghĩ và cảm xúc của mình theo nhiều cách khác nhau.,1,0.526
+333,Ngôn_ngữ là sự thể_hiện của tinh_thần con_người .,Ngôn ngữ phản ánh đời sống tinh thần và tư duy của con người.,2,0.532
+334,Một công_ty rơi vào khủng_hoảng vì một vụ cháy .,Nhiều người lựa chọn đi xe máy khi ra đường.,0,0.087
+335,Một công_ty rơi vào khủng_hoảng vì một vụ cháy .,Một sự cố nghiêm trọng đã gây ảnh hưởng đến hoạt động của doanh nghiệp.,1,0.57
+336,Một công_ty rơi vào khủng_hoảng vì một vụ cháy .,Vụ hỏa hoạn đã khiến công ty này lâm vào tình trạng khủng hoảng.,2,0.767
+337,"12 h 10 hôm_nay , 11 - 10 , Tổng_thống Hàn_Quốc Roh_Moo_Hyun và phu_nhân đã bắt_đầu chuyến thăm TP. HCM .",Học sinh đang tham gia các hoạt động ngoại khóa tại trường.,0,0.175
+338,"12h 10 hôm_nay , 11 - 10 , Tổng_thống Hàn_Quốc Roh_Moo_Hyun và phu_nhân đã bắt_đầu chuyến thăm TP. HCM .",Một nguyên thủ quốc gia thực hiện chuyến thăm chính thức tới Việt Nam.,1,0.336
+339,"12h 10 hôm_nay , 11 - 10 , Tổng_thống Hàn_Quốc Roh_Moo_Hyun và phu_nhân đã bắt_đầu chuyến thăm TP. HCM .","Vào lúc 12 giờ 10 phút ngày 11-10 hôm nay, Tổng thống Hàn Quốc Roh Moo-hyun cùng phu nhân đã khởi đầu chuyến thăm tới TP.HCM.",2,0.763
+340,Chủ_tịch nước tặng quà các đối_tượng chính_sách,Gía vàng trong nước hôm nay tiếp tục có nhiều biến động mạnh.,0,0.195
+341,Chủ_tịch nước tặng quà các đối_tượng chính_sách,Nhiều lãnh đạo trung ương tổ chức hoạt động thăm hỏi người có công với cách mạng.,1,0.563
+342,Chủ_tịch nước tặng quà các đối_tượng chính_sách,Chủ tịch nước đã trao tặng những phần quà cho các đối tượng thuộc diện chính sách.,2,0.723
+343,Thêm gần 300 mặt_hàng thuốc tăng_giá,Người dân đang mua sắm quần áo cho mùa đông.,0,0.321
+344,Thêm gần 300 mặt_hàng thuốc tăng_giá,Giá cả trong lĩnh vực y tế có nhiều biến động gần đây.,1,0.508
+345,Thêm gần 300 mặt_hàng thuốc tăng_giá,Gần 300 loại thuốc đã được điều chỉnh tăng giá trong thời gian gần đây.,2,0.895
+346,Quảng_Ngãi : 1.640 cổ_vật được giao lại cho cơ_quan bảo_tàng,Du khách đang tham quan các danh lam thắng cảnh.,0,0.189
+347,Quảng_Ngãi : 1.640 cổ_vật được giao lại cho cơ_quan bảo_tàng,Nhiều hiện vật lịch sử được bảo tồn và lưu giữ.,1,0.503
+348,Quảng_Ngãi : 1.640 cổ_vật được giao lại cho cơ_quan bảo_tàng,"Tại Quảng Ngãi, 1.640 cổ vật đã được bàn giao cho cơ quan bảo tàng để bảo quản.",2,0.765
+349,Tứ_giác Long_Xuyên - cánh đồng khô nước,Người dân đang chuẩn bị cho vụ mùa mới.,0,0.273
+350,Tứ_giác Long_Xuyên - cánh đồng khô nước,Một số khu vực nông nghiệp đang thiếu nước.,1,0.293
+351,Tứ_giác Long_Xuyên - cánh đồng khô nước,"Khu vực Tứ giác Long Xuyên đang đối mặt với tình trạng khô hạn, thiếu nước.",2,0.513
+352,Nhờ tấm lòng của bà Tiện mà từ năm 2001 đến nay ở thôn 2 đã có 119 TELT được bố_mẹ đón về .,Nhiều người tham gia các hoạt động từ thiện trong xã hội.,0,0.403
+353,Nhờ tấm lòng của bà Tiện mà từ năm 2001 đến nay ở thôn 2 đã có 119 TELT được bố_mẹ đón về .,Một người phụ nữ đã giúp đỡ rất nhiều trẻ em trong nhiều năm.,1,0.508
+354,Nhờ tấm lòng của bà Tiện mà từ năm 2001 đến nay ở thôn 2 đã có 119 TELT được bố_mẹ đón về .,"Nhờ vào tấm lòng của bà Tiện, kể từ năm 2001 tới nay, tại thôn 2 đã có 119 trẻ em lang thang được cha mẹ đón về nhà.",2,0.88
+355,Loa phóng_thanh phát đi một thông_tin mà ai cũng quan_tâm : tàu đến vĩ_tuyến 17 .,Mọi người đang mua bán ở chợ.,0,0.076
+356,Loa phóng_thanh phát đi một thông_tin mà ai cũng quan_tâm : tàu đến vĩ_tuyến 17 .,Một thông báo quan trọng được truyền đến nhiều người.,1,0.462
+357,Loa phóng_thanh phát đi một thông_tin mà ai cũng quan_tâm : tàu đến vĩ_tuyến 17 .,Loa phóng thanh loan đi một tin tức mà mọi người đều quan tâm: tàu đã tới vĩ tuyến 17.,2,0.697
+358,Gọi là nhà nhưng thật_ra đó là căn chòi lá ngập nước .,Thành phố đang xây thêm nhiều khu chung cư mới.,0,0.244
+359,Gọi là nhà nhưng thật_ra đó là căn chòi lá ngập nước .,Nhiều hộ dân phải sống trong điều kiện nhà ở khó khăn.,1,0.327
+360,Gọi là nhà nhưng thật_ra đó là căn chòi lá ngập nước .,Căn nhà thực chất chỉ là một chòi lá tạm bợ và bị ngập nước.,2,0.847
+361,Dự_báo tốc_độ tăng tín_dụng trong năm 2003 ở mức 28 % nhưng NH nên giữ ở tỉ_lệ 25 - 26 % là tốt nhất .,Ngành du lịch Việt Nam năm 2003 ghi nhận lượng khách quốc tế tăng mạnh so với các năm trước.,0,0.264
+362,Dự_báo tốc_độ tăng tín_dụng trong năm 2003 ở mức 28 % nhưng NH nên giữ ở tỉ_lệ 25 - 26 % là tốt nhất .,Chính sách tiền tệ thận trọng được xem là cần thiết để kiểm soát lạm phát và đảm bảo ổn định hệ thống ngân hàng trong giai đoạn đầu những năm 2000.,1,0.372
+363,Dự_báo tốc_độ tăng tín_dụng trong năm 2003 ở mức 28 % nhưng NH nên giữ ở tỉ_lệ 25 - 26 % là tốt nhất .,"Mặc dù mức tăng trưởng tín dụng năm 2003 được ước tính khoảng 28%, nhưng các ngân hàng được khuyến nghị chỉ nên duy trì trong khoảng 25–26% để đạt hiệu quả tối ưu.",2,0.782
+364,"Cần huy_động nhiều vốn , an_toàn và hiệu_quả",Việc cải tạo hệ thống giao thông đô thị đang được triển khai nhằm giảm ùn tắc và tai nạn.,0,0.33
+365,"Cần huy_động nhiều vốn , an_toàn và hiệu_quả",Các tổ chức tài chính phải cân nhắc kỹ giữa lợi nhuận và rủi ro khi mở rộng quy mô hoạt động trong bối cảnh cạnh tranh ngày càng cao.,1,0.537
+366,"Cần huy_động nhiều vốn , an_toàn và hiệu_quả",Việc thu hút nguồn vốn lớn cần được thực hiện theo hướng bảo đảm an toàn và mang lại hiệu quả cao.,2,0.794
+367,Bình_Phước : 26.074 ha rừng tự_nhiên bị mất,Sản lượng hồ tiêu của tỉnh Gia Lai tăng mạnh trong những năm gần đây nhờ mở rộng diện tích canh tác.,0,0.276
+368,Bình_Phước : 26.074 ha rừng tự_nhiên bị mất,"Tình trạng suy giảm diện tích rừng đang diễn ra ở nhiều tỉnh khu vực Đông Nam Bộ, gây ảnh hưởng tiêu cực đến hệ sinh thái.",1,0.586
+369,Bình_Phước : 26.074 ha rừng tự_nhiên bị mất,Tỉnh Bình Phước đã bị mất khoảng 26.074 hecta rừng tự nhiên.,2,0.82
+370,Ngưng sử_dụng kèn hơi xe_buýt từ 15 / 10,"Từ tháng 10, thành phố triển khai chương trình trồng thêm cây xanh tại các khu dân cư.",0,0.242
+371,Ngưng sử_dụng kèn hơi xe_buýt từ 15 / 10,Các biện pháp giảm tiếng ồn giao thông đang được áp dụng nhằm hạn chế ảnh hưởng đến sinh hoạt của người dân.,1,0.426
+372,Ngưng sử_dụng kèn hơi xe_buýt từ 15 / 10,Việc sử dụng kèn hơi trên xe buýt sẽ bị ngưng kể từ ngày 15 tháng 10.,2,0.902
+373,Singapore tặng 2 máy thở cho Bệnh_viện Saint_Paul,Bệnh viện Chợ Rẫy vừa hoàn thành việc nâng cấp khu điều trị hồi sức tích cực.,0,0.452
+374,Singapore tặng 2 máy thở cho Bệnh_viện Saint_Paul,Nhiều quốc gia đã hỗ trợ thiết bị y tế cho các cơ sở khám chữa bệnh nhằm tăng cường năng lực điều trị.,1,0.427
+375,Singapore tặng 2 máy thở cho Bệnh_viện Saint_Paul,Chính phủ Singapore đã trao tặng hai máy thở cho Bệnh viện Saint Paul.,2,0.876
+376,Hai công_trình trọng_điểm quốc_gia thiếu 800 triệu USD vốn,Lễ hội du lịch biển được tổ chức thường niên nhằm quảng bá hình ảnh các địa phương ven biển.,0,0.117
+377,Hai công_trình trọng_điểm quốc_gia thiếu 800 triệu USD vốn,"Nhiều dự án hạ tầng quy mô lớn đang gặp khó khăn về nguồn tài chính, dẫn đến nguy cơ chậm tiến độ thi công.",1,0.379
+378,Hai công_trình trọng_điểm quốc_gia thiếu 800 triệu USD vốn,Hai dự án trọng điểm cấp quốc gia hiện đang thiếu khoảng 800 triệu đô la Mỹ để triển khai.,2,0.801
+379,Doanh_nghiệp vận_tải từ_chối chở hàng đi Bình_Dương,Giá lúa tại các tỉnh đồng bằng sông Cửu Long đang tăng nhẹ so với tháng trước.,0,0.123
+380,Doanh_nghiệp vận_tải từ_chối chở hàng đi Bình_Dương,Hoạt động logistics gặp nhiều trở ngại khiến việc vận chuyển hàng hóa đến các khu công nghiệp phía Nam trở nên khó khăn hơn.,1,0.226
+381,Doanh_nghiệp vận_tải từ_chối chở hàng đi Bình_Dương,Các doanh nghiệp trong lĩnh vực vận tải đã không nhận vận chuyển hàng hóa đến tỉnh Bình Dương.,2,0.611
+382,"Nghề vận_tải và các doanh_nghiệp sản_xuất - kinh_doanh có chung một "" mạch_máu "" của nền kinh_tế .",Thị trường chứng khoán phản ánh kỳ vọng của nhà đầu tư đối với tình hình kinh tế vĩ mô.,0,0.28
+383,"Nghề vận_tải và các doanh_nghiệp sản_xuất - kinh_doanh có chung một "" mạch_máu "" của nền kinh_tế .",Hoạt động lưu thông hàng hóa đóng vai trò quan trọng trong việc kết nối các khâu của nền kinh tế.,1,0.611
+384,"Nghề vận_tải và các doanh_nghiệp sản_xuất - kinh_doanh có chung một "" mạch_máu "" của nền kinh_tế .","Lĩnh vực vận tải và các doanh nghiệp sản xuất, kinh doanh chia sẻ chung một ""mạch máu"" của nền kinh tế.",2,0.745
+385,"Tại Nhật_Bản , lương tháng khoảng 500 - 700 USD đối_với tu_nghiệp_sinh .",Hệ thống giáo dục đại học ở Hàn Quốc đang thu hút ngày càng nhiều sinh viên quốc tế.,0,0.381
+386,"Tại Nhật_Bản , lương tháng khoảng 500 - 700 USD đối_với tu_nghiệp_sinh .",Thu nhập của lao động nước ngoài tại Nhật Bản phụ thuộc vào ngành nghề và thời gian làm việc.,1,0.504
+387,"Tại Nhật_Bản , lương tháng khoảng 500 - 700 USD đối_với tu_nghiệp_sinh .","Đối với tu nghiệp sinh làm việc tại Nhật Bản, mức lương hàng tháng thường dao động trong khoảng 500 đến 700 đô la Mỹ.",2,0.873
+388,Tại Trung_Đông khoảng 160 - 180 USD đối_với lao_động có nghề và 140 USD với lao_động phổ_thông .,Giá dầu thô trên thị trường thế giới biến động mạnh do ảnh hưởng của tình hình địa chính trị.,0,0.32
+389,Tại Trung_Đông khoảng 160 - 180 USD đối_với lao_động có nghề và 140 USD với lao_động phổ_thông .,Mức thu nhập của người lao động làm việc ở nước ngoài có sự chênh lệch tùy theo trình độ tay nghề.,1,0.356
+390,Tại Trung_Đông khoảng 160 - 180 USD đối_với lao_động có nghề và 140 USD với lao_động phổ_thông .,"Ở khu vực Trung Đông, lao động có tay nghề nhận mức lương khoảng 160–180 USD, trong khi lao động phổ thông chỉ vào khoảng 140 USD.",2,0.725
+391,"Khi khám bệnh , các bác_sĩ phát_hiện một_số trường_hợp mắc bệnh tim bẩm_sinh nên khuyên gia_đình đưa các cháu đi chữa_trị .",Chương trình tiêm chủng mở rộng giúp phòng ngừa nhiều bệnh truyền nhiễm nguy hiểm ở trẻ em.,0,0.423
+392,"Khi khám bệnh , các bác_sĩ phát_hiện một_số trường_hợp mắc bệnh tim bẩm_sinh nên khuyên gia_đình đưa các cháu đi chữa_trị .",Việc khám sức khỏe định kỳ có thể giúp phát hiện sớm các vấn đề nghiêm trọng về tim mạch ở trẻ nhỏ.,1,0.702
+393,"Khi khám bệnh , các bác_sĩ phát_hiện một_số trường_hợp mắc bệnh tim bẩm_sinh nên khuyên gia_đình đưa các cháu đi chữa_trị .","Trong lúc khám bệnh, các bác sĩ phát hiện một số bệnh nhân mắc tim bẩm sinh nên đã khuyên nhủ gia đình đưa các cháu đi chữa bệnh.",2,0.866
+394,"Theo điều_tra năm 2000 , ở Quảng_Ngãi có khoảng 250 cháu có hoàn_cảnh khó_khăn bị bệnh tim bẩm_sinh cần phẫu_thuật .",Nhiều dự án phát triển hạ tầng giao thông đang được triển khai tại khu vực miền Trung.,0,0.331
+395,"Theo điều_tra năm 2000 , ở Quảng_Ngãi có khoảng 250 cháu có hoàn_cảnh khó_khăn bị bệnh tim bẩm_sinh cần phẫu_thuật .","Tại nhiều địa phương, trẻ em mắc bệnh tim bẩm sinh gặp khó khăn trong việc tiếp cận các dịch vụ phẫu thuật do điều kiện kinh tế hạn chế.",1,0.619
+396,"Theo điều_tra năm 2000 , ở Quảng_Ngãi có khoảng 250 cháu có hoàn_cảnh khó_khăn bị bệnh tim bẩm_sinh cần phẫu_thuật .",Kết quả điều tra năm 2000 cho thấy tại tỉnh Quảng Ngãi có khoảng 250 trẻ em có hoàn cảnh khó khăn mắc tim bẩm sinh và cần được phẫu thuật.,2,0.861
+397,100 % quầy bán thức_ăn đường_phố không đảm_bảo vệ_sinh,Thị trường bất động sản đang có dấu hiệu phục hồi sau giai đoạn trầm lắng kéo dài.,0,0.109
+398,100 % quầy bán thức_ăn đường_phố không đảm_bảo vệ_sinh,Công tác kiểm tra an toàn thực phẩm đối với hàng quán nhỏ lẻ vẫn còn nhiều hạn chế ở các đô thị lớn.,1,0.511
+399,100 % quầy bán thức_ăn đường_phố không đảm_bảo vệ_sinh,Toàn bộ các quầy hàng bán đồ ăn đường phố đều không đáp ứng yêu cầu về vệ sinh.,2,0.429
+400,Khởi_công xây_dựng Nhà_máy điện diesel Phú_Quốc,Ngành thủy sản tại Kiên Giang đang đẩy mạnh xuất khẩu sang các thị trường châu Á.,0,0.352
+401,Khởi_công xây_dựng Nhà_máy điện diesel Phú_Quốc,Việc đầu tư các dự án sản xuất điện năng mới được kỳ vọng sẽ cải thiện nguồn cung điện cho các khu vực xa đất liền.,1,0.516
+402,Khởi_công xây_dựng Nhà_máy điện diesel Phú_Quốc,Dự án Nhà máy điện diesel tại Phú Quốc đã chính thức được khởi công xây dựng.,2,0.651
+403,"Đồng_Tháp : Xây chợ mới , nhưng tiểu_thương không vào",Nhiều địa phương đang đẩy mạnh phát triển du lịch sinh thái gắn với bảo tồn văn hóa truyền thống.,0,0.099
+404,"Đồng_Tháp : Xây chợ mới , nhưng tiểu_thương không vào",Một số dự án hạ tầng thương mại gặp khó khăn trong việc thu hút người kinh doanh tham gia hoạt động.,1,0.3
+405,"Đồng_Tháp : Xây chợ mới , nhưng tiểu_thương không vào","Tại Đồng Tháp, chợ mới được xây dựng nhưng các tiểu thương lại không đến buôn bán.",2,0.567
+406,Từ năm 1994 khu chợ đã được chính_quyền huyện Lục_Yên xây_dựng chỉ để phục_vụ nhu_cầu duy_nhất : mua_bán đá_quí .,Các khu công nghiệp mới đang được đầu tư nhằm thu hút doanh nghiệp sản xuất vào địa phương.,0,0.252
+407,Từ năm 1994 khu chợ đã được chính_quyền huyện Lục_Yên xây_dựng chỉ để phục_vụ nhu_cầu duy_nhất : mua_bán đá_quí .,Một số chợ chuyên doanh được hình thành để phục vụ các ngành hàng đặc thù của từng địa phương.,1,0.415
+408,Từ năm 1994 khu chợ đã được chính_quyền huyện Lục_Yên xây_dựng chỉ để phục_vụ nhu_cầu duy_nhất : mua_bán đá_quí .,"Kể từ năm 1994, chính quyền huyện Lục Yên đã xây dựng khu chợ này với mục đích duy nhất là phục vụ hoạt động mua bán đá quý.",2,0.745
+409,"Phải cấm hình_thức "" bán hàng đa_cấp """,Việc mở rộng hệ thống siêu thị bán lẻ đang tạo thêm nhiều cơ hội việc làm cho người lao động.,0,0.109
+410,"Phải cấm hình_thức "" bán hàng đa_cấp """,Nhiều ý kiến cho rằng cần tăng cường quản lý các mô hình kinh doanh dễ phát sinh hành vi lừa đảo người tiêu dùng.,1,0.447
+411,"Phải cấm hình_thức "" bán hàng đa_cấp """,Cần phải nghiêm cấm mô hình kinh doanh bán hàng đa cấp.,2,0.742
+412,"Công_bố các Luật mới được Quốc_Hội khoá XI , kỳ họp thứ IV thông_qua",Bộ Giáo dục và Đào tạo vừa ban hành kế hoạch đổi mới chương trình học phổ thông.,0,0.364
+413,"Công_bố các Luật mới được Quốc_Hội khoá XI , kỳ họp thứ IV thông_qua",Hoạt động xây dựng và hoàn thiện hệ thống pháp luật được triển khai thường xuyên nhằm đáp ứng yêu cầu quản lý nhà nước.,1,0.434
+414,"Công_bố các Luật mới được Quốc_Hội khoá XI , kỳ họp thứ IV thông_qua",Các luật mới đã được Quốc hội khóa XI thông qua tại kỳ họp thứ IV và chính thức được công bố.,2,0.929
+415,Quá_tải ở các bệnh_viện ( BV ) lớn đã trở_thành một vấn_đề bức_xúc .,Công nghệ trí tuệ nhân tạo đang được ứng dụng ngày càng rộng rãi trong lĩnh vực tài chính.,0,0.313
+416,Quá_tải ở các bệnh_viện ( BV ) lớn đã trở_thành một vấn_đề bức_xúc .,Hệ thống y tế đô thị đang chịu nhiều áp lực do nhu cầu khám chữa bệnh của người dân ngày càng tăng.,1,0.652
+417,Quá_tải ở các bệnh_viện ( BV ) lớn đã trở_thành một vấn_đề bức_xúc .,Tình trạng quá tải tại các bệnh viện lớn hiện nay đã trở thành một vấn đề gây nhiều bức xúc.,2,0.885
+418,"Đóng thành_công phà biển "" Hòn_Ngọc_Việt """,Lượng khách du lịch đến các đảo phía Nam tăng mạnh trong mùa cao điểm hè.,0,0.214
+419,"Đóng thành_công phà biển "" Hòn_Ngọc_Việt """,Ngành công nghiệp đóng tàu trong nước đã hoàn thiện thêm một phương tiện vận tải đường biển mới.,1,0.486
+420,"Đóng thành_công phà biển "" Hòn_Ngọc_Việt ""","Chiếc phà biển có tên ""Hòn Ngọc Việt"" đã được đóng thành công.",2,0.844
+421,Bộ_trưởng Hoàng_Trung_Hải : Giá điện sẽ chỉ tăng vào thời_điểm hợp_lý,Bộ Nông nghiệp và Phát triển Nông thôn đang triển khai các biện pháp hỗ trợ nông dân trước biến động thời tiết.,0,0.2
+422,Bộ_trưởng Hoàng_Trung_Hải : Giá điện sẽ chỉ tăng vào thời_điểm hợp_lý,Việc điều chỉnh giá các mặt hàng thiết yếu cần được cân nhắc kỹ để tránh tác động tiêu cực đến đời sống người dân.,1,0.457
+423,Bộ_trưởng Hoàng_Trung_Hải : Giá điện sẽ chỉ tăng vào thời_điểm hợp_lý,Bộ trưởng Hoàng Trung Hải khẳng định rằng giá điện chỉ được điều chỉnh tăng vào những thời điểm được xem là phù hợp.,2,0.805
+424,Phú_Mỹ_Hưng mở chợ hoa xuân,Nhiều khu dân cư mới đang được xây dựng nhằm đáp ứng nhu cầu nhà ở tại các đô thị lớn.,0,0.308
+425,Phú_Mỹ_Hưng mở chợ hoa xuân,Các hoạt động mua bán hoa và cây cảnh thường diễn ra sôi động vào dịp Tết tại nhiều khu vực trong thành phố.,1,0.663
+426,Phú_Mỹ_Hưng mở chợ hoa xuân,Khu đô thị Phú Mỹ Hưng đã tổ chức mở chợ hoa phục vụ dịp xuân.,2,0.703
+427,FAO đánh_giá cao nỗ_lực phòng_chống cúm_gà của Việt_Nam,Tổ chức UNESCO vừa công nhận thêm một di sản văn hóa phi vật thể tại khu vực Đông Nam Á.,0,0.322
+428,FAO đánh_giá cao nỗ_lực phòng_chống cúm_gà của Việt_Nam,Công tác phòng chống dịch bệnh trong chăn nuôi gia cầm tại Việt Nam đã được nhiều tổ chức quốc tế quan tâm.,1,0.558
+429,FAO đánh_giá cao nỗ_lực phòng_chống cúm_gà của Việt_Nam,FAO đã ghi nhận và đánh giá tích cực những nỗ lực của Việt Nam trong việc phòng chống dịch cúm gia cầm.,2,0.866
+430,TP. HCM : Tết không thiếu hoa mai,Nhiều tuyến đường trong thành phố đang được nâng cấp để giảm tình trạng kẹt xe dịp cuối năm.,0,0.415
+431,TP. HCM : Tết không thiếu hoa mai,Thị trường hoa Tết tại các đô thị lớn năm nay khá sôi động với nguồn cung đa dạng.,1,0.62
+432,TP. HCM : Tết không thiếu hoa mai,"Tại TP. Hồ Chí Minh, nguồn hoa mai phục vụ dịp Tết vẫn dồi dào, không xảy ra tình trạng khan hiếm.",2,0.668
+433,TP. HCM : ước khoảng 10.000 du_khách du_xuân hải_ngoại,Thành phố đang triển khai thêm nhiều tuyến xe buýt mới nhằm phục vụ nhu cầu đi lại của người dân.,0,0.412
+434,TP. HCM : ước khoảng 10.000 du_khách du_xuân hải_ngoại,"Lượng khách quốc tế đến các đô thị lớn trong dịp lễ, Tết thường có xu hướng tăng so với ngày thường.",1,0.393
+435,TP. HCM : ước khoảng 10.000 du_khách du_xuân hải_ngoại,"TP. Hồ Chí Minh dự kiến sẽ đón khoảng 10.000 du khách từ nước ngoài đến tham quan, du xuân.",2,0.75
+436,Ngày 18 - 1 : Tiêu_huỷ trên 481.000 gia_cầm các loại,Giá xăng dầu trong nước được điều chỉnh tăng nhẹ từ đầu tháng.,0,0.158
+437,Ngày 18 - 1 : Tiêu_huỷ trên 481.000 gia_cầm các loại,"Công tác phòng chống dịch bệnh trong chăn nuôi đã buộc nhiều địa phương phải tiêu hủy số lượng lớn gia súc, gia cầm.",1,0.509
+438,Ngày 18 - 1 : Tiêu_huỷ trên 481.000 gia_cầm các loại,"Vào ngày 18-1, hơn 481.000 con gia cầm thuộc nhiều loại đã bị đem đi tiêu hủy.",2,0.697
+439,Tổ_chức từ_thiện DAHW ( CHLB Đức ) hỗ_trợ bệnh_nhân phong ăn tết,Một hội chợ thương mại quốc tế vừa được tổ chức nhằm kết nối doanh nghiệp trong khu vực.,0,0.24
+440,Tổ_chức từ_thiện DAHW ( CHLB Đức ) hỗ_trợ bệnh_nhân phong ăn tết,"Nhiều tổ chức nhân đạo quốc tế đã triển khai các hoạt động hỗ trợ người bệnh có hoàn cảnh khó khăn trong dịp lễ, Tết.",1,0.461
+441,Tổ_chức từ_thiện DAHW ( CHLB Đức ) hỗ_trợ bệnh_nhân phong ăn tết,Tổ chức từ thiện DAHW của Cộng hòa Liên bang Đức đã hỗ trợ các bệnh nhân phong đón Tết.,2,0.7
+442,Hành_khách đi tàu trong tết tăng đột_biến,Giá vé máy bay trên một số chặng nội địa có xu hướng giảm sau kỳ nghỉ lễ.,0,0.308
+443,Hành_khách đi tàu trong tết tăng đột_biến,"Nhu cầu đi lại của người dân trong dịp Tết thường tăng cao, gây áp lực lên hệ thống giao thông công cộng.",1,0.528
+444,Hành_khách đi tàu trong tết tăng đột_biến,"Trong dịp Tết, số lượng hành khách sử dụng tàu hỏa đã tăng mạnh so với ngày thường.",2,0.78
+445,"Ở góc bếp , một nhóm em đang quây_quần nhặt rau chuẩn_bị bữa cơm chiều .",Buổi biểu diễn văn nghệ ngoài trời đã thu hút đông đảo khán giả đến theo dõi.,0,0.058
+446,"Ở góc bếp , một nhóm em đang quây_quần nhặt rau chuẩn_bị bữa cơm chiều .",Không khí sinh hoạt tập thể trong gia đình thường gắn liền với việc mọi người cùng nhau chuẩn bị các công việc thường ngày.,1,0.17
+447,"Ở góc bếp , một nhóm em đang quây_quần nhặt rau chuẩn_bị bữa cơm chiều .","Trong góc bếp, các em nhỏ tụ tập lại với nhau để nhặt rau, chuẩn bị cho bữa ăn buổi chiều.",2,0.58
+448,"Em N.T.B. mới 16 tuổi , quê An_Giang , nhưng đã bị vùi_dập lâu ngày trong các "" động "" ở Campuchia .",Chính quyền địa phương đang triển khai chương trình hỗ trợ học nghề cho thanh niên nông thôn.,0,0.147
+449,"Em N.T.B. mới 16 tuổi , quê An_Giang , nhưng đã bị vùi_dập lâu ngày trong các "" động "" ở Campuchia .",Nhiều trẻ vị thành niên Việt Nam đã trở thành nạn nhân của các đường dây bóc lột lao động xuyên biên giới.,1,0.479
+450,"Em N.T.B. mới 16 tuổi , quê An_Giang , nhưng đã bị vùi_dập lâu ngày trong các "" động "" ở Campuchia .","N.T.B., 16 tuổi, quê ở An Giang, đã phải chịu cảnh bị vùi dập trong thời gian dài tại các “động” bên Campuchia.",2,0.732
+451,Hai trẻ_em chết_đuối trên công_trình cấp_nước,Chính quyền địa phương đang đẩy nhanh tiến độ hoàn thành các dự án hạ tầng giao thông.,0,0.135
+452,Hai trẻ_em chết_đuối trên công_trình cấp_nước,"Một vụ tai nạn đuối nước đã xảy ra tại khu vực đang thi công, gây thiệt hại về người.",1,0.455
+453,Hai trẻ_em chết_đuối trên công_trình cấp_nước,Hai em nhỏ đã tử vong do đuối nước tại một công trình cấp nước đang xây dựng.,2,0.805
+454,70 % người cao_tuổi vẫn đang sản_xuất kinh_doanh,Nhiều doanh nghiệp trẻ gặp khó khăn trong việc tiếp cận nguồn vốn vay ngân hàng.,0,0.246
+455,70 % người cao_tuổi vẫn đang sản_xuất kinh_doanh,Một bộ phận lớn người lớn tuổi tiếp tục tham gia lao động để tăng thu nhập và duy trì cuộc sống.,1,0.445
+456,70 % người cao_tuổi vẫn đang sản_xuất kinh_doanh,Khoảng 70 % người cao tuổi hiện nay vẫn tham gia các hoạt động sản xuất và kinh doanh.,2,0.829
+457,Đồng_Tháp : hàng trăm HS ngộ_độc do uống sữa,Ngành giáo dục tỉnh đang triển khai chương trình cải thiện chất lượng bữa ăn học đường.,0,0.402
+458,Đồng_Tháp : hàng trăm HS ngộ_độc do uống sữa,"Một vụ việc liên quan đến an toàn thực phẩm đã xảy ra tại trường học, khiến nhiều học sinh phải nhập viện.",1,0.416
+459,Đồng_Tháp : hàng trăm HS ngộ_độc do uống sữa,"Tại Đồng Tháp, hàng trăm học sinh bị ngộ độc sau khi uống sữa.",2,0.638
+460,Trao 4 giải báo_chí tuyên_truyền về biển - hải_đảo Việt_Nam,Hội thảo khoa học về biến đổi khí hậu toàn cầu được tổ chức tại Hà Nội.,0,0.2
+461,Trao 4 giải báo_chí tuyên_truyền về biển - hải_đảo Việt_Nam,Nhiều tác phẩm báo chí viết về chủ quyền biển đảo đã được ghi nhận và biểu dương.,1,0.542
+462,Trao 4 giải báo_chí tuyên_truyền về biển - hải_đảo Việt_Nam,Bốn giải báo chí về công tác tuyên truyền biển và hải đảo Việt Nam đã được trao.,2,0.821
+463,Nguyễn_Thị_Quỳnh_Trang ( SV ĐHDL Hùng_Vương ) đang có công_việc ổn_định tại một nhà_hàng Nhật nổi_tiếng .,Nhiều sinh viên mới ra trường gặp khó khăn trong việc tìm kiếm việc làm phù hợp với chuyên ngành.,0,0.415
+464,Nguyễn_Thị_Quỳnh_Trang ( SV ĐHDL Hùng_Vương ) đang có công_việc ổn_định tại một nhà_hàng Nhật nổi_tiếng .,Một số sinh viên của Trường Đại học Dân lập Hùng Vương lựa chọn làm việc trong lĩnh vực dịch vụ ăn uống sau khi tốt nghiệp.,1,0.522
+465,Nguyễn_Thị_Quỳnh_Trang ( SV ĐHDL Hùng_Vương ) đang có công_việc ổn_định tại một nhà_hàng Nhật nổi_tiếng .,Sinh viên Đại học Dân lập Hùng Vương Nguyễn Thị Quỳnh Trang hiện đang làm việc lâu dài tại một nhà hàng Nhật Bản có tiếng.,2,0.59
+466,"5 g 30 sáng , Dung và Hạnh đã thức dậy để chuẩn_bị đi làm tại nhà_máy ở Đồng_Nai .",Chính quyền tỉnh Đồng Nai đang triển khai kế hoạch mở rộng khu công nghiệp mới.,0,0.426
+467,"5 g 30 sáng , Dung và Hạnh đã thức dậy để chuẩn_bị đi làm tại nhà_máy ở Đồng_Nai .",Nhiều công nhân tại Đồng Nai phải dậy rất sớm mỗi ngày để kịp ca làm việc trong nhà máy.,1,0.629
+468,"5 g 30 sáng , Dung và Hạnh đã thức dậy để chuẩn_bị đi làm tại nhà_máy ở Đồng_Nai .","Vào lúc 5 giờ 30 phút sáng, Dung cùng Hạnh đã thức giấc để chuẩn bị đến làm việc tại một nhà máy ở Đồng Nai.",2,0.749
+469,"Chống_đỡ , sửa_chữa 200 ngôi nhà cổ Hội_An có nguy_cơ sụp_đổ",Lượng khách du lịch đến Hội An trong mùa cao điểm năm nay tăng mạnh.,0,0.191
+470,"Chống_đỡ , sửa_chữa 200 ngôi nhà cổ Hội_An có nguy_cơ sụp_đổ",Công tác bảo tồn di sản kiến trúc tại Hội An đang được triển khai nhằm đảm bảo an toàn cho các công trình lâu năm.,1,0.44
+471,"Chống_đỡ , sửa_chữa 200 ngôi nhà cổ Hội_An có nguy_cơ sụp_đổ",Khoảng 200 căn nhà cổ ở Hội An đang được chống đỡ và tu sửa do đứng trước nguy cơ sập đổ.,2,0.779
+472,CV Phần_mềm Quang_Trung đầu_tư 50 tỉ đồng xây_dựng đường giao_thông,Ngành công nghệ thông tin đang đối mặt với tình trạng thiếu hụt nhân lực chất lượng cao.,0,0.203
+473,CV Phần_mềm Quang_Trung đầu_tư 50 tỉ đồng xây_dựng đường giao_thông,Khu Công viên Phần mềm Quang Trung đang triển khai các hạng mục hạ tầng nhằm cải thiện việc đi lại trong khu vực.,1,0.287
+474,CV Phần_mềm Quang_Trung đầu_tư 50 tỉ đồng xây_dựng đường giao_thông,Công viên Phần mềm Quang Trung đã chi 50 tỉ đồng để xây dựng hệ thống đường giao thông.,2,0.72
+475,VN : Thanh_thiếu_niên nhiễm HIV có xu_hướng gia_tăng,Ngành y tế đang đẩy mạnh ứng dụng công nghệ số trong công tác khám chữa bệnh.,0,0.228
+476,VN : Thanh_thiếu_niên nhiễm HIV có xu_hướng gia_tăng,Tình hình lây nhiễm HIV trong cộng đồng trẻ đang đặt ra nhiều thách thức cho công tác phòng chống dịch bệnh.,1,0.709
+477,VN : Thanh_thiếu_niên nhiễm HIV có xu_hướng gia_tăng,"Tại Việt Nam, số ca thanh thiếu niên mắc HIV đang có chiều hướng tăng lên.",2,0.904
+478,"Xây_dựng gia_đình VN hoà_thuận , văn_hoá và ấm_no",Chương trình cải cách thủ tục hành chính đang được triển khai trên phạm vi toàn quốc.,0,0.346
+479,"Xây_dựng gia_đình VN hoà_thuận , văn_hoá và ấm_no",Việc nâng cao đời sống tinh thần và vật chất cho người dân được xem là mục tiêu quan trọng của xã hội hiện nay.,1,0.515
+480,"Xây_dựng gia_đình VN hoà_thuận , văn_hoá và ấm_no","Cần xây dựng những gia đình Việt Nam có sự hoà thuận, đời sống văn hoá và sự ấm no.",2,0.676
+481,Nhiều loài chim trở về vùng_đệm vườn_quốc_gia Cát_Tiên,Hoạt động khai thác khoáng sản trái phép đang diễn ra tại một số địa phương miền núi.,0,0.401
+482,Nhiều loài chim trở về vùng_đệm vườn_quốc_gia Cát_Tiên,Công tác bảo tồn sinh thái tại Vườn quốc gia Cát Tiên đang góp phần cải thiện môi trường sống của nhiều loài động vật.,1,0.376
+483,Nhiều loài chim trở về vùng_đệm vườn_quốc_gia Cát_Tiên,Nhiều loài chim đã quay lại sinh sống ở khu vực vùng đệm của Vườn quốc gia Cát Tiên.,2,0.579
+484,Góp_ý dự_thảo nghị_định quản_lý người sau cai_nghiện,Bộ Tài chính đang lấy ý kiến về chính sách điều chỉnh thuế thu nhập cá nhân.,0,0.439
+485,Góp_ý dự_thảo nghị_định quản_lý người sau cai_nghiện,Các cơ quan chức năng đang thảo luận về chính sách hỗ trợ và tái hòa nhập cộng đồng cho người từng nghiện ma túy.,1,0.562
+486,Góp_ý dự_thảo nghị_định quản_lý người sau cai_nghiện,Việc đóng góp ý kiến cho dự thảo nghị định về quản lý người sau cai nghiện đang được thực hiện.,2,0.665
+487,"Tại khu_vực miền tây Nghệ_An , đàn voi xuất_hiện từ lâu .",Nhiều địa phương ven biển đang đầu tư phát triển du lịch sinh thái.,0,0.277
+488,"Tại khu_vực miền tây Nghệ_An , đàn voi xuất_hiện từ lâu .",Vùng rừng miền tây Nghệ An là nơi sinh sống của nhiều loài động vật hoang dã quý hiếm.,1,0.718
+489,"Tại khu_vực miền tây Nghệ_An , đàn voi xuất_hiện từ lâu .",Đàn voi đã có mặt từ nhiều năm nay tại khu vực phía tây tỉnh Nghệ An.,2,0.864
+490,"Giữa dòng sông Soài_Rạp , đoàn xáng cạp hoạt_động liên_tục từ sáng đến tối đã hơn tám tháng nay .",Ngư dân ven biển đang bước vào mùa khai thác hải sản cao điểm.,0,0.343
+491,"Giữa dòng sông Soài_Rạp , đoàn xáng cạp hoạt_động liên_tục từ sáng đến tối đã hơn tám tháng nay .","Hoạt động nạo vét trên sông diễn ra thường xuyên, gây ảnh hưởng đến giao thông đường thủy trong khu vực.",1,0.435
+492,"Giữa dòng sông Soài_Rạp , đoàn xáng cạp hoạt_động liên_tục từ sáng đến tối đã hơn tám tháng nay .","Trên sông Soài Rạp, các tàu xáng cạp đã làm việc liên tục suốt ngày trong hơn tám tháng qua.",2,0.765
+493,"Theo UBND quận 9 , đoạn từ ngã ba rạch Bà_Ký đến ngã ba rạch Vàm_Tắc đã cạn_kiệt nguồn tài_nguyên cát .",Thành phố đang triển khai kế hoạch chỉnh trang đô thị và mở rộng các tuyến đường giao thông.,0,0.155
+494,"Theo UBND quận 9 , đoạn từ ngã ba rạch Bà_Ký đến ngã ba rạch Vàm_Tắc đã cạn_kiệt nguồn tài_nguyên cát .",Hoạt động khai thác khoáng sản tại một số tuyến sông đã làm suy giảm nghiêm trọng trữ lượng cát tự nhiên.,1,0.616
+495,"Theo UBND quận 9 , đoạn từ ngã ba rạch Bà_Ký đến ngã ba rạch Vàm_Tắc đã cạn_kiệt nguồn tài_nguyên cát .",UBND quận 9 cho biết nguồn cát ở đoạn từ rạch Bà Ký đến rạch Vàm Tắc hiện đã bị khai thác đến mức cạn kiệt.,2,0.891
+496,Lao_động bỏ trốn tại Đài_Loan đã đến mức báo_động,Chính phủ đang triển khai các chính sách khuyến khích doanh nghiệp đầu tư ra nước ngoài.,0,0.238
+497,Lao_động bỏ trốn tại Đài_Loan đã đến mức báo_động,Tình trạng lao động nước ngoài vi phạm hợp đồng làm việc tại một số thị trường đang gây nhiều lo ngại.,1,0.397
+498,Lao_động bỏ trốn tại Đài_Loan đã đến mức báo_động,Việc lao động bỏ trốn ở Đài Loan hiện đã trở nên nghiêm trọng và đáng báo động.,2,0.538
+499,"Trong nhiều thế_kỷ , ngọn hải_đăng thành Alexandria đã hướng_dẫn tàu_bè ra_vào cảng .",Các kim tự tháp Ai Cập cổ đại là điểm đến thu hút đông đảo du khách quốc tế.,0,0.44
+500,"Trong nhiều thế_kỷ , ngọn hải_đăng thành Alexandria đã hướng_dẫn tàu_bè ra_vào cảng .",Những công trình hàng hải cổ đại từng đóng vai trò quan trọng trong việc đảm bảo an toàn cho hoạt động đi biển.,1,0.497
+501,"Trong nhiều thế_kỷ , ngọn hải_đăng thành Alexandria đã hướng_dẫn tàu_bè ra_vào cảng .","Qua nhiều thế kỷ, ngọn hải đăng Alexandria đã dẫn đường cho các tàu bè ra vào cảng.",2,0.847
+502,Sinh_quyển dân_tộc là một truyền_thuyết vĩ_đại của nhân_loại .,Nhiều phát_minh khoa_học hiện_đại đã làm thay_đổi cách con_người sinh_hoạt và sản_xuất.,0,0.344
+503,Sinh_quyển dân_tộc là một truyền_thuyết vĩ_đại của nhân_loại .,Các câu_chuyện mang tính biểu_tượng thường phản_ánh khát_vọng chung của con_người qua nhiều thời_đại.,1,0.542
+504,Sinh_quyển dân_tộc là một truyền_thuyết vĩ_đại của nhân_loại .,Sinh_quyển dân_tộc được xem như một huyền_thoại lớn lao gắn với lịch_sử phát_triển của loài người.,2,0.868
+505,Đây là sông Áp_Lục nó là biên_giới tự_nhiên giữa Bắc_Triều_Tiên và Trung_Quốc .,Sông Mekong chảy qua nhiều quốc_gia Đông_Nam_Á và có vai_trò quan_trọng đối_với nông_nghiệp.,0,0.4
+506,Đây là sông Áp_Lục nó là biên_giới tự_nhiên giữa Bắc_Triều_Tiên và Trung_Quốc .,Một_số con sông lớn ở châu_Á đóng vai_trò là ranh_giới tự_nhiên giữa các quốc_gia.,1,0.501
+507,Đây là sông Áp_Lục nó là biên_giới tự_nhiên giữa Bắc_Triều_Tiên và Trung_Quốc .,Sông Áp_Lục chính là ranh_giới tự_nhiên phân_chia lãnh_thổ giữa Bắc_Triều_Tiên và Trung_Quốc.,2,0.792
+508,Các ngành liên_quan khi cấp phép kinh_doanh nên xem địa_điểm đậu xe là một trong những điều_kiện bắt_buộc .,Doanh_nghiệp cần chú_trọng nâng_cao chất_lượng dịch_vụ để thu_hút khách_hàng.,0,0.427
+509,Các ngành liên_quan khi cấp phép kinh_doanh nên xem địa_điểm đậu xe là một trong những điều_kiện bắt_buộc .,Việc quản_lý hoạt_động kinh_doanh đòi_hỏi phải cân_nhắc nhiều yếu_tố về hạ_tầng đô_thị.,1,0.558
+510,Các ngành liên_quan khi cấp phép kinh_doanh nên xem địa_điểm đậu xe là một trong những điều_kiện bắt_buộc .,"Khi xét cấp phép kinh_doanh , các cơ_quan chức_năng cần coi chỗ đậu xe là một tiêu_chí bắt_buộc.",2,0.86
